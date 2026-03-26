@@ -10,6 +10,8 @@ This report consolidates all findings across Arcane Aura performance, Arcane Bom
 
 - Dual-hypothesis wipe responsibility and blame modeling:
   [`anomalus_wipe_responsibility_dual_hypothesis.md`](./anomalus_wipe_responsibility_dual_hypothesis.md)
+- Rune soak damage and unsafe no-debuff exposures:
+  [`anomalus_rune_soak_analysis.md`](./anomalus_rune_soak_analysis.md)
 
 ---
 
