@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1632" height="310" viewBox="0 0 1632 310">
+<style>
+  .title { font: 700 24px Arial, sans-serif; fill: #111827; }
+  .sub { font: 400 13px Arial, sans-serif; fill: #4b5563; }
+  .head { font: 700 12px Arial, sans-serif; fill: #111827; }
+  .txt { font: 11px Arial, sans-serif; fill: #111827; }
+  .mono { font: 11px "Courier New", monospace; fill: #111827; }
+</style>
+<rect x="0" y="0" width="1632" height="310" fill="#f9fafb"/>
+<text x="20" y="38" class="title">Arcane Bomb Early-Det Death Timelines (6s pre-death)</text>
+<text x="20" y="58" class="sub">Red = damage taken, Green = healing received. Includes spell names. Excludes events within 2s of pull end.</text>
+<rect x="20" y="90" width="520" height="180" fill="white" stroke="#d1d5db" rx="6"/>
+<text x="30" y="108" class="head">Pull 3 - Shangcheeze | det 20:58:28.362 | delay 6.015s | followups 0</text>
+<line x1="32" y1="258" x2="528" y2="258" stroke="#9ca3af"/>
+<line x1="32.0" y1="258" x2="32.0" y2="262" stroke="#9ca3af"/>
+<text x="26.0" y="274" class="mono">-6</text>
+<line x1="114.66666666666666" y1="258" x2="114.66666666666666" y2="262" stroke="#9ca3af"/>
+<text x="108.66666666666666" y="274" class="mono">-5</text>
+<line x1="197.33333333333331" y1="258" x2="197.33333333333331" y2="262" stroke="#9ca3af"/>
+<text x="191.33333333333331" y="274" class="mono">-4</text>
+<line x1="280.0" y1="258" x2="280.0" y2="262" stroke="#9ca3af"/>
+<text x="274.0" y="274" class="mono">-3</text>
+<line x1="362.66666666666663" y1="258" x2="362.66666666666663" y2="262" stroke="#9ca3af"/>
+<text x="356.66666666666663" y="274" class="mono">-2</text>
+<line x1="445.33333333333337" y1="258" x2="445.33333333333337" y2="262" stroke="#9ca3af"/>
+<text x="439.33333333333337" y="274" class="mono">-1</text>
+<line x1="528.0" y1="258" x2="528.0" y2="262" stroke="#9ca3af"/>
+<text x="522.0" y="274" class="mono">0</text>
+<circle cx="88.87466666742694" cy="136" r="4" fill="#10b981"/>
+<text x="94.87466666742694" y="140" class="txt" fill="#10b981">168 Judgement of Light</text>
+<circle cx="107.39200000092387" cy="154" r="4" fill="#ef4444"/>
+<text x="113.39200000092387" y="158" class="txt" fill="#ef4444">216 Arcane Aura</text>
+<circle cx="134.83733333383375" cy="172" r="4" fill="#10b981"/>
+<text x="140.83733333383375" y="176" class="txt" fill="#10b981">40 Healing Stream</text>
+<circle cx="142.85600000002887" cy="190" r="4" fill="#ef4444"/>
+<text x="148.85600000002887" y="194" class="txt" fill="#ef4444">2331 Arcane Bomb</text>
+<circle cx="214.36266666712862" cy="136" r="4" fill="#10b981"/>
+<text x="220.36266666712862" y="140" class="txt" fill="#10b981">243 Holy Strength</text>
+<circle cx="273.46933333350654" cy="154" r="4" fill="#ef4444"/>
+<text x="279.46933333350654" y="158" class="txt" fill="#ef4444">432 Arcane Aura</text>
+<circle cx="300.66666666666663" cy="172" r="4" fill="#10b981"/>
+<text x="306.66666666666663" y="176" class="txt" fill="#10b981">40 Healing Stream</text>
+<circle cx="438.38933333432453" cy="136" r="4" fill="#ef4444"/>
+<text x="444.38933333432453" y="140" class="txt" fill="#ef4444">431 Arcane Aura</text>
+<circle cx="467.40533333392034" cy="154" r="4" fill="#10b981"/>
+<text x="473.40533333392034" y="158" class="txt" fill="#10b981">40 Healing Stream</text>
+<circle cx="522.0479999999903" cy="172" r="4" fill="#ef4444"/>
+<text x="528.0479999999903" y="176" class="txt" fill="#ef4444">2314 Arcane Bomb</text>
+<circle cx="32" cy="248" r="4" fill="#ef4444"/>
+<text x="40" y="252" class="txt">Damage</text>
+<circle cx="112" cy="248" r="4" fill="#10b981"/>
+<text x="120" y="252" class="txt">Healing</text>
+</svg>

@@ -41,6 +41,18 @@ Bombs were traced per player from `Arcane Overload -> Arcane Bomb` to classify w
 3. death-triggered in pre-window,
 4. full-timer detonations with poor distance.
 
+
+### Arcane Bomb Early-Det Death Timeline Chart
+
+This second Arcane Bomb chart shows only carriers whose bombs detonated early and where the carrier died at/near detonation.
+
+- Window shown per case: **6 seconds before death**
+- **Red** = damage taken (with spell name)
+- **Green** = healing received (with spell name)
+- Excludes events within **2.0s of pull end**
+
+![Arcane Bomb Early-Det Death Timelines](./anomalus_bomb_early_det_timeline.svg)
+
 ### Global Bomb Timing Summary
 
 - Bombs with valid Overload pairing: **51**
