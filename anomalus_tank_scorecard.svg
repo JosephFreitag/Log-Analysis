@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="590" viewBox="0 0 1500 590">
+<svg xmlns="http://www.w3.org/2000/svg" width="1780" height="550" viewBox="0 0 1780 550">
 <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#1f2937"/></linearGradient></defs>
 <style>
 .title{font:700 28px Arial,sans-serif;fill:#f9fafb;}
@@ -7,90 +7,89 @@
 .td{font:12px Arial,sans-serif;fill:#111827;}
 .mono{font:12px "Courier New", monospace;fill:#111827;}
 </style>
-<rect x="0" y="0" width="1500" height="590" fill="#f3f4f6"/>
-<rect x="0" y="0" width="1500" height="92" fill="url(#g)"/>
-<text x="24" y="42" class="title">Anomalus Tank Scorecard</text>
-<text x="24" y="64" class="sub">Direct tank-hit events + Manabound Strikes max stack</text>
+<rect x="0" y="0" width="1780" height="550" fill="#f3f4f6"/>
+<rect x="0" y="0" width="1780" height="92" fill="url(#g)"/>
+<text x="24" y="42" class="title">Anomalus Tank Scorecard (Split by Damage Source)</text>
+<text x="24" y="64" class="sub">Autos and Arcane Claws broken out separately</text>
 <text x="24" y="82" class="sub">Tanks: Caub, Ichabaddie, Ekureru, Zancoo, Aerodian</text>
-<rect x="24" y="110" width="1452" height="30" fill="#e5e7eb" stroke="#d1d5db"/>
-<text x="34" y="130" class="th">tank</text>
-<text x="214" y="130" class="th">length_tanking</text>
-<text x="394" y="130" class="th">max_stacks</text>
-<text x="524" y="130" class="th">avg_hit</text>
-<text x="644" y="130" class="th">max_hit</text>
-<text x="764" y="130" class="th">min_hit</text>
-<text x="884" y="130" class="th">hit_events</text>
-<text x="984" y="130" class="th">tanking bar</text>
-<text x="1204" y="130" class="th">stack bar</text>
-<text x="1354" y="130" class="th">avg bar</text>
-<rect x="24" y="140" width="1452" height="56" fill="#ffffff" stroke="#e5e7eb"/>
-<text x="34" y="162" class="td">Caub</text>
-<text x="214" y="162" class="mono">01:30.60</text>
-<text x="394" y="162" class="mono">16</text>
-<text x="524" y="162" class="mono">1004.3</text>
-<text x="644" y="162" class="mono">3178</text>
-<text x="764" y="162" class="mono">0</text>
-<text x="884" y="162" class="mono">106</text>
-<rect x="984" y="152" width="200" height="10" fill="#dbeafe" rx="5"/>
-<rect x="984" y="152" width="180" height="10" fill="#2563eb" rx="5"/>
-<rect x="1204" y="152" width="130" height="10" fill="#fee2e2" rx="5"/>
-<rect x="1204" y="152" width="130" height="10" fill="#dc2626" rx="5"/>
-<rect x="1354" y="152" width="130" height="10" fill="#dcfce7" rx="5"/>
-<rect x="1354" y="152" width="114" height="10" fill="#16a34a" rx="5"/>
-<rect x="24" y="196" width="1452" height="56" fill="#ffffff" stroke="#e5e7eb"/>
-<text x="34" y="218" class="td">Ichabaddie</text>
-<text x="214" y="218" class="mono">01:40.05</text>
-<text x="394" y="218" class="mono">14</text>
-<text x="524" y="218" class="mono">1135.5</text>
-<text x="644" y="218" class="mono">13254</text>
-<text x="764" y="218" class="mono">302</text>
-<text x="884" y="218" class="mono">101</text>
-<rect x="984" y="208" width="200" height="10" fill="#dbeafe" rx="5"/>
-<rect x="984" y="208" width="199" height="10" fill="#2563eb" rx="5"/>
-<rect x="1204" y="208" width="130" height="10" fill="#fee2e2" rx="5"/>
-<rect x="1204" y="208" width="113" height="10" fill="#dc2626" rx="5"/>
-<rect x="1354" y="208" width="130" height="10" fill="#dcfce7" rx="5"/>
-<rect x="1354" y="208" width="130" height="10" fill="#16a34a" rx="5"/>
-<rect x="24" y="252" width="1452" height="56" fill="#ffffff" stroke="#e5e7eb"/>
-<text x="34" y="274" class="td">Ekureru</text>
-<text x="214" y="274" class="mono">01:40.13</text>
-<text x="394" y="274" class="mono">14</text>
-<text x="524" y="274" class="mono">851.7</text>
-<text x="644" y="274" class="mono">7245</text>
-<text x="764" y="274" class="mono">0</text>
-<text x="884" y="274" class="mono">95</text>
-<rect x="984" y="264" width="200" height="10" fill="#dbeafe" rx="5"/>
-<rect x="984" y="264" width="200" height="10" fill="#2563eb" rx="5"/>
-<rect x="1204" y="264" width="130" height="10" fill="#fee2e2" rx="5"/>
-<rect x="1204" y="264" width="113" height="10" fill="#dc2626" rx="5"/>
-<rect x="1354" y="264" width="130" height="10" fill="#dcfce7" rx="5"/>
-<rect x="1354" y="264" width="97" height="10" fill="#16a34a" rx="5"/>
-<rect x="24" y="308" width="1452" height="56" fill="#ffffff" stroke="#e5e7eb"/>
-<text x="34" y="330" class="td">Zancoo</text>
-<text x="214" y="330" class="mono">00:35.99</text>
-<text x="394" y="330" class="mono">7</text>
-<text x="524" y="330" class="mono">789.1</text>
-<text x="644" y="330" class="mono">7995</text>
-<text x="764" y="330" class="mono">113</text>
-<text x="884" y="330" class="mono">35</text>
-<rect x="984" y="320" width="200" height="10" fill="#dbeafe" rx="5"/>
-<rect x="984" y="320" width="71" height="10" fill="#2563eb" rx="5"/>
-<rect x="1204" y="320" width="130" height="10" fill="#fee2e2" rx="5"/>
-<rect x="1204" y="320" width="56" height="10" fill="#dc2626" rx="5"/>
-<rect x="1354" y="320" width="130" height="10" fill="#dcfce7" rx="5"/>
-<rect x="1354" y="320" width="90" height="10" fill="#16a34a" rx="5"/>
-<rect x="24" y="364" width="1452" height="56" fill="#ffffff" stroke="#e5e7eb"/>
-<text x="34" y="386" class="td">Aerodian</text>
-<text x="214" y="386" class="mono">00:37.57</text>
-<text x="394" y="386" class="mono">10</text>
-<text x="524" y="386" class="mono">828.3</text>
-<text x="644" y="386" class="mono">2700</text>
-<text x="764" y="386" class="mono">0</text>
-<text x="884" y="386" class="mono">52</text>
-<rect x="984" y="376" width="200" height="10" fill="#dbeafe" rx="5"/>
-<rect x="984" y="376" width="75" height="10" fill="#2563eb" rx="5"/>
-<rect x="1204" y="376" width="130" height="10" fill="#fee2e2" rx="5"/>
-<rect x="1204" y="376" width="81" height="10" fill="#dc2626" rx="5"/>
-<rect x="1354" y="376" width="130" height="10" fill="#dcfce7" rx="5"/>
-<rect x="1354" y="376" width="94" height="10" fill="#16a34a" rx="5"/>
+<rect x="24" y="110" width="1732" height="30" fill="#e5e7eb" stroke="#d1d5db"/>
+<text x="32" y="130" class="th">tank</text>
+<text x="152" y="130" class="th">tanking</text>
+<text x="252" y="130" class="th">stacks</text>
+<text x="322" y="130" class="th">auto avg/max/min/n</text>
+<text x="542" y="130" class="th">claws avg/max/min/n</text>
+<text x="762" y="130" class="th">tank time</text>
+<text x="902" y="130" class="th">stack</text>
+<text x="1022" y="130" class="th">auto avg</text>
+<text x="1142" y="130" class="th">claws avg</text>
+<rect x="24" y="140" width="1732" height="62" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="32" y="164" class="td">Caub</text>
+<text x="152" y="164" class="mono">01:30.60</text>
+<text x="252" y="164" class="mono">16</text>
+<text x="322" y="164" class="mono">992.6/1924/0/48</text>
+<text x="542" y="164" class="mono">1014.0/3178/0/58</text>
+<rect x="762" y="154" width="120" height="10" fill="#dbeafe" rx="5"/>
+<rect x="762" y="154" width="108" height="10" fill="#2563eb" rx="5"/>
+<rect x="902" y="154" width="100" height="10" fill="#fee2e2" rx="5"/>
+<rect x="902" y="154" width="100" height="10" fill="#dc2626" rx="5"/>
+<rect x="1022" y="154" width="100" height="10" fill="#dcfce7" rx="5"/>
+<rect x="1022" y="154" width="75" height="10" fill="#16a34a" rx="5"/>
+<rect x="1142" y="154" width="100" height="10" fill="#fef3c7" rx="5"/>
+<rect x="1142" y="154" width="99" height="10" fill="#d97706" rx="5"/>
+<rect x="24" y="202" width="1732" height="62" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="32" y="226" class="td">Ichabaddie</text>
+<text x="152" y="226" class="mono">01:40.05</text>
+<text x="252" y="226" class="mono">14</text>
+<text x="322" y="226" class="mono">1311.9/13254/302/41</text>
+<text x="542" y="226" class="mono">1015.0/2231/491/60</text>
+<rect x="762" y="216" width="120" height="10" fill="#dbeafe" rx="5"/>
+<rect x="762" y="216" width="119" height="10" fill="#2563eb" rx="5"/>
+<rect x="902" y="216" width="100" height="10" fill="#fee2e2" rx="5"/>
+<rect x="902" y="216" width="87" height="10" fill="#dc2626" rx="5"/>
+<rect x="1022" y="216" width="100" height="10" fill="#dcfce7" rx="5"/>
+<rect x="1022" y="216" width="100" height="10" fill="#16a34a" rx="5"/>
+<rect x="1142" y="216" width="100" height="10" fill="#fef3c7" rx="5"/>
+<rect x="1142" y="216" width="100" height="10" fill="#d97706" rx="5"/>
+<rect x="24" y="264" width="1732" height="62" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="32" y="288" class="td">Ekureru</text>
+<text x="152" y="288" class="mono">01:40.13</text>
+<text x="252" y="288" class="mono">14</text>
+<text x="322" y="288" class="mono">690.6/7245/0/39</text>
+<text x="542" y="288" class="mono">963.9/2616/223/56</text>
+<rect x="762" y="278" width="120" height="10" fill="#dbeafe" rx="5"/>
+<rect x="762" y="278" width="120" height="10" fill="#2563eb" rx="5"/>
+<rect x="902" y="278" width="100" height="10" fill="#fee2e2" rx="5"/>
+<rect x="902" y="278" width="87" height="10" fill="#dc2626" rx="5"/>
+<rect x="1022" y="278" width="100" height="10" fill="#dcfce7" rx="5"/>
+<rect x="1022" y="278" width="52" height="10" fill="#16a34a" rx="5"/>
+<rect x="1142" y="278" width="100" height="10" fill="#fef3c7" rx="5"/>
+<rect x="1142" y="278" width="94" height="10" fill="#d97706" rx="5"/>
+<rect x="24" y="326" width="1732" height="62" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="32" y="350" class="td">Zancoo</text>
+<text x="152" y="350" class="mono">00:35.99</text>
+<text x="252" y="350" class="mono">7</text>
+<text x="322" y="350" class="mono">1136.6/7995/426/14</text>
+<text x="542" y="350" class="mono">557.4/1181/113/21</text>
+<rect x="762" y="340" width="120" height="10" fill="#dbeafe" rx="5"/>
+<rect x="762" y="340" width="43" height="10" fill="#2563eb" rx="5"/>
+<rect x="902" y="340" width="100" height="10" fill="#fee2e2" rx="5"/>
+<rect x="902" y="340" width="43" height="10" fill="#dc2626" rx="5"/>
+<rect x="1022" y="340" width="100" height="10" fill="#dcfce7" rx="5"/>
+<rect x="1022" y="340" width="86" height="10" fill="#16a34a" rx="5"/>
+<rect x="1142" y="340" width="100" height="10" fill="#fef3c7" rx="5"/>
+<rect x="1142" y="340" width="54" height="10" fill="#d97706" rx="5"/>
+<rect x="24" y="388" width="1732" height="62" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="32" y="412" class="td">Aerodian</text>
+<text x="152" y="412" class="mono">00:37.57</text>
+<text x="252" y="412" class="mono">10</text>
+<text x="322" y="412" class="mono">806.7/1255/634/22</text>
+<text x="542" y="412" class="mono">844.1/2700/0/30</text>
+<rect x="762" y="402" width="120" height="10" fill="#dbeafe" rx="5"/>
+<rect x="762" y="402" width="45" height="10" fill="#2563eb" rx="5"/>
+<rect x="902" y="402" width="100" height="10" fill="#fee2e2" rx="5"/>
+<rect x="902" y="402" width="62" height="10" fill="#dc2626" rx="5"/>
+<rect x="1022" y="402" width="100" height="10" fill="#dcfce7" rx="5"/>
+<rect x="1022" y="402" width="61" height="10" fill="#16a34a" rx="5"/>
+<rect x="1142" y="402" width="100" height="10" fill="#fef3c7" rx="5"/>
+<rect x="1142" y="402" width="83" height="10" fill="#d97706" rx="5"/>
 </svg>
