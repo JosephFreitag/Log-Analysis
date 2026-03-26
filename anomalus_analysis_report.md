@@ -14,6 +14,8 @@ This report consolidates all findings across Arcane Aura performance, Arcane Bom
   [`anomalus_rune_soak_analysis.md`](./anomalus_rune_soak_analysis.md)
 - Tank scorecard (Caub, Ichabaddie, Ekureru, Zancoo, Aerodian):
   [`anomalus_tank_scorecard.md`](./anomalus_tank_scorecard.md)
+- Resistance potion timelines per pull (MRP + GAPP):
+  [`anomalus_resistance_potion_timeline.md`](./anomalus_resistance_potion_timeline.md)
 
 ---
 
