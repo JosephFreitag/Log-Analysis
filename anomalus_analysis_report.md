@@ -119,6 +119,13 @@ Key pattern: several of the worst cascades began with **on-time** bombs, then fo
 
 Most high-damage bombs were **full-timer detonations with insufficient distance** rather than only short timers.
 
+### Arcane Pulse Trigger Attribution Update
+
+- Arcane Pulse-related attribution now prioritizes **Arcane Aura-linked early Arcane Bomb triggers** over generic Arcane Aura death counts.
+- Arcane Pulse death/trigger attribution excludes events within **2.0 seconds of pull end** to avoid wipe-call/end noise.
+
+---
+
 ---
 
 ## 6) Healer Performance Summary
