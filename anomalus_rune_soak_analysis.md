@@ -19,6 +19,8 @@ This report isolates rune-soak behavior and asks two practical questions:
 Legend:
 - Blue bar = `Unstable Magic` hit while player had `Arcane Dampening` (intended soak).
 - Red bar = `Unstable Magic` hit without `Arcane Dampening` (unsafe exposure).
+- Light blue shaded lane = time window where `Arcane Dampening` was active for that player.
+- `D+` = dampening applied, `D-` = dampening faded.
 - `☠` marker above a bar = that specific hit was followed by player death within 0.35s.
 
 ## Executive summary
