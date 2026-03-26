@@ -8,7 +8,7 @@
 </style>
 <rect x="0" y="0" width="1540" height="1300" fill="#f9fafb"/>
 <text x="20" y="36" class="title">Anomalus Arcane Pulse Trigger Scorecard</text>
-<text x="20" y="56" class="sub">Counts only Arcane Aura-linked early bomb triggers. End-of-fight filter: ignore events within 2.0s of pull end.</text>
+<text x="20" y="56" class="sub">Sorted low->high Avg Aura hit. End-of-fight filter: ignore events within 2.0s of pull end.</text>
 <rect x="20" y="102" width="1500" height="1148" fill="white" stroke="#d1d5db"/>
 <rect x="20" y="102" width="1500" height="28" fill="#e5e7eb"/>
 <text x="20" y="120" class="hdr">Player</text>
@@ -44,16 +44,16 @@
 <line x1="1177" y1="102" x2="1177" y2="1250" stroke="#e5e7eb"/>
 <line x1="1282" y1="102" x2="1282" y2="1250" stroke="#e5e7eb"/>
 <line x1="1392" y1="102" x2="1392" y2="1250" stroke="#e5e7eb"/>
-<rect x="20" y="130" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="130" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="130" x2="1520" y2="130" stroke="#e5e7eb"/>
-<text x="20" y="148" class="cell">Lopp</text>
-<text x="220" y="148" class="mono">4</text>
-<text x="280" y="148" class="mono">335.1</text>
-<text x="365" y="148" class="mono">50.1</text>
-<text x="445" y="148" class="mono">13.4</text>
-<text x="530" y="148" class="mono">12.3</text>
-<text x="610" y="148" class="mono">3</text>
-<text x="660" y="148" class="mono">2</text>
+<text x="20" y="148" class="cell">Caub</text>
+<text x="220" y="148" class="mono">1</text>
+<text x="280" y="148" class="mono">124.1</text>
+<text x="365" y="148" class="mono">70.8</text>
+<text x="445" y="148" class="mono">9.1</text>
+<text x="530" y="148" class="mono">2.8</text>
+<text x="610" y="148" class="mono">0</text>
+<text x="660" y="148" class="mono">0</text>
 <text x="710" y="148" class="mono">0</text>
 <text x="770" y="148" class="mono">0</text>
 <text x="845" y="148" class="mono">0</text>
@@ -63,15 +63,15 @@
 <text x="1200" y="148" class="mono">0</text>
 <text x="1300" y="148" class="mono">0</text>
 <text x="1415" y="148" class="mono">0</text>
-<rect x="20" y="158" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="158" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="158" x2="1520" y2="158" stroke="#e5e7eb"/>
-<text x="20" y="176" class="cell">Obanion</text>
-<text x="220" y="176" class="mono">4</text>
-<text x="280" y="176" class="mono">290.7</text>
-<text x="365" y="176" class="mono">55.3</text>
-<text x="445" y="176" class="mono">0.3</text>
-<text x="530" y="176" class="mono">0.0</text>
-<text x="610" y="176" class="mono">0</text>
+<text x="20" y="176" class="cell">Ichabaddie</text>
+<text x="220" y="176" class="mono">0</text>
+<text x="280" y="176" class="mono">124.6</text>
+<text x="365" y="176" class="mono">68.6</text>
+<text x="445" y="176" class="mono">17.0</text>
+<text x="530" y="176" class="mono">8.8</text>
+<text x="610" y="176" class="mono">1</text>
 <text x="660" y="176" class="mono">0</text>
 <text x="710" y="176" class="mono">0</text>
 <text x="770" y="176" class="mono">0</text>
@@ -82,17 +82,17 @@
 <text x="1200" y="176" class="mono">0</text>
 <text x="1300" y="176" class="mono">0</text>
 <text x="1415" y="176" class="mono">0</text>
-<rect x="20" y="186" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="186" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="186" x2="1520" y2="186" stroke="#e5e7eb"/>
-<text x="20" y="204" class="cell">Sarys</text>
-<text x="220" y="204" class="mono">4</text>
-<text x="280" y="204" class="mono">276.2</text>
-<text x="365" y="204" class="mono">57.6</text>
-<text x="445" y="204" class="mono">0.3</text>
-<text x="530" y="204" class="mono">0.0</text>
-<text x="610" y="204" class="mono">0</text>
+<text x="20" y="204" class="cell">Rokomito</text>
+<text x="220" y="204" class="mono">2</text>
+<text x="280" y="204" class="mono">145.6</text>
+<text x="365" y="204" class="mono">52.8</text>
+<text x="445" y="204" class="mono">2.1</text>
+<text x="530" y="204" class="mono">7.3</text>
+<text x="610" y="204" class="mono">3</text>
 <text x="660" y="204" class="mono">0</text>
-<text x="710" y="204" class="mono">3</text>
+<text x="710" y="204" class="mono">2</text>
 <text x="770" y="204" class="mono">0</text>
 <text x="845" y="204" class="mono">0</text>
 <text x="900" y="204" class="mono">0</text>
@@ -101,14 +101,14 @@
 <text x="1200" y="204" class="mono">0</text>
 <text x="1300" y="204" class="mono">0</text>
 <text x="1415" y="204" class="mono">0</text>
-<rect x="20" y="214" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="214" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="214" x2="1520" y2="214" stroke="#e5e7eb"/>
-<text x="20" y="232" class="cell">Lochien</text>
-<text x="220" y="232" class="mono">4</text>
-<text x="280" y="232" class="mono">255.7</text>
-<text x="365" y="232" class="mono">44.4</text>
-<text x="445" y="232" class="mono">9.0</text>
-<text x="530" y="232" class="mono">6.2</text>
+<text x="20" y="232" class="cell">Aerodian</text>
+<text x="220" y="232" class="mono">0</text>
+<text x="280" y="232" class="mono">151.9</text>
+<text x="365" y="232" class="mono">71.1</text>
+<text x="445" y="232" class="mono">8.4</text>
+<text x="530" y="232" class="mono">6.5</text>
 <text x="610" y="232" class="mono">2</text>
 <text x="660" y="232" class="mono">0</text>
 <text x="710" y="232" class="mono">0</text>
@@ -120,17 +120,17 @@
 <text x="1200" y="232" class="mono">0</text>
 <text x="1300" y="232" class="mono">0</text>
 <text x="1415" y="232" class="mono">0</text>
-<rect x="20" y="242" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="242" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="242" x2="1520" y2="242" stroke="#e5e7eb"/>
-<text x="20" y="260" class="cell">Coincidence</text>
-<text x="220" y="260" class="mono">3</text>
-<text x="280" y="260" class="mono">299.2</text>
-<text x="365" y="260" class="mono">52.9</text>
-<text x="445" y="260" class="mono">5.4</text>
-<text x="530" y="260" class="mono">5.5</text>
+<text x="20" y="260" class="cell">Gladriel</text>
+<text x="220" y="260" class="mono">0</text>
+<text x="280" y="260" class="mono">156.3</text>
+<text x="365" y="260" class="mono">59.2</text>
+<text x="445" y="260" class="mono">6.5</text>
+<text x="530" y="260" class="mono">12.4</text>
 <text x="610" y="260" class="mono">2</text>
 <text x="660" y="260" class="mono">0</text>
-<text x="710" y="260" class="mono">0</text>
+<text x="710" y="260" class="mono">2</text>
 <text x="770" y="260" class="mono">0</text>
 <text x="845" y="260" class="mono">0</text>
 <text x="900" y="260" class="mono">0</text>
@@ -139,16 +139,16 @@
 <text x="1200" y="260" class="mono">0</text>
 <text x="1300" y="260" class="mono">0</text>
 <text x="1415" y="260" class="mono">0</text>
-<rect x="20" y="270" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="270" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="270" x2="1520" y2="270" stroke="#e5e7eb"/>
-<text x="20" y="288" class="cell">Junoxz</text>
-<text x="220" y="288" class="mono">3</text>
-<text x="280" y="288" class="mono">287.7</text>
-<text x="365" y="288" class="mono">59.2</text>
-<text x="445" y="288" class="mono">4.3</text>
-<text x="530" y="288" class="mono">2.4</text>
+<text x="20" y="288" class="cell">Zancoo</text>
+<text x="220" y="288" class="mono">0</text>
+<text x="280" y="288" class="mono">156.8</text>
+<text x="365" y="288" class="mono">69.7</text>
+<text x="445" y="288" class="mono">30.5</text>
+<text x="530" y="288" class="mono">15.9</text>
 <text x="610" y="288" class="mono">3</text>
-<text x="660" y="288" class="mono">1</text>
+<text x="660" y="288" class="mono">0</text>
 <text x="710" y="288" class="mono">0</text>
 <text x="770" y="288" class="mono">0</text>
 <text x="845" y="288" class="mono">0</text>
@@ -158,17 +158,17 @@
 <text x="1200" y="288" class="mono">0</text>
 <text x="1300" y="288" class="mono">0</text>
 <text x="1415" y="288" class="mono">0</text>
-<rect x="20" y="298" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="298" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="298" x2="1520" y2="298" stroke="#e5e7eb"/>
-<text x="20" y="316" class="cell">Shangcheeze</text>
-<text x="220" y="316" class="mono">3</text>
-<text x="280" y="316" class="mono">279.5</text>
-<text x="365" y="316" class="mono">54.8</text>
-<text x="445" y="316" class="mono">4.9</text>
-<text x="530" y="316" class="mono">3.8</text>
-<text x="610" y="316" class="mono">1</text>
-<text x="660" y="316" class="mono">1</text>
-<text x="710" y="316" class="mono">0</text>
+<text x="20" y="316" class="cell">Iriale</text>
+<text x="220" y="316" class="mono">0</text>
+<text x="280" y="316" class="mono">160.7</text>
+<text x="365" y="316" class="mono">72.8</text>
+<text x="445" y="316" class="mono">27.4</text>
+<text x="530" y="316" class="mono">25.9</text>
+<text x="610" y="316" class="mono">4</text>
+<text x="660" y="316" class="mono">2</text>
+<text x="710" y="316" class="mono">3</text>
 <text x="770" y="316" class="mono">0</text>
 <text x="845" y="316" class="mono">0</text>
 <text x="900" y="316" class="mono">0</text>
@@ -177,16 +177,16 @@
 <text x="1200" y="316" class="mono">0</text>
 <text x="1300" y="316" class="mono">0</text>
 <text x="1415" y="316" class="mono">0</text>
-<rect x="20" y="326" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="326" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="326" x2="1520" y2="326" stroke="#e5e7eb"/>
-<text x="20" y="344" class="cell">Totemhero</text>
-<text x="220" y="344" class="mono">3</text>
-<text x="280" y="344" class="mono">275.7</text>
-<text x="365" y="344" class="mono">56.4</text>
-<text x="445" y="344" class="mono">6.7</text>
-<text x="530" y="344" class="mono">7.7</text>
-<text x="610" y="344" class="mono">2</text>
-<text x="660" y="344" class="mono">1</text>
+<text x="20" y="344" class="cell">Dokuku</text>
+<text x="220" y="344" class="mono">1</text>
+<text x="280" y="344" class="mono">161.0</text>
+<text x="365" y="344" class="mono">59.8</text>
+<text x="445" y="344" class="mono">2.9</text>
+<text x="530" y="344" class="mono">19.0</text>
+<text x="610" y="344" class="mono">1</text>
+<text x="660" y="344" class="mono">3</text>
 <text x="710" y="344" class="mono">3</text>
 <text x="770" y="344" class="mono">0</text>
 <text x="845" y="344" class="mono">0</text>
@@ -196,16 +196,16 @@
 <text x="1200" y="344" class="mono">0</text>
 <text x="1300" y="344" class="mono">0</text>
 <text x="1415" y="344" class="mono">0</text>
-<rect x="20" y="354" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="354" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="354" x2="1520" y2="354" stroke="#e5e7eb"/>
-<text x="20" y="372" class="cell">Amends</text>
-<text x="220" y="372" class="mono">3</text>
-<text x="280" y="372" class="mono">255.4</text>
-<text x="365" y="372" class="mono">57.0</text>
-<text x="445" y="372" class="mono">18.7</text>
-<text x="530" y="372" class="mono">9.0</text>
-<text x="610" y="372" class="mono">0</text>
-<text x="660" y="372" class="mono">0</text>
+<text x="20" y="372" class="cell">Lafi</text>
+<text x="220" y="372" class="mono">0</text>
+<text x="280" y="372" class="mono">169.9</text>
+<text x="365" y="372" class="mono">63.7</text>
+<text x="445" y="372" class="mono">12.7</text>
+<text x="530" y="372" class="mono">8.8</text>
+<text x="610" y="372" class="mono">3</text>
+<text x="660" y="372" class="mono">2</text>
 <text x="710" y="372" class="mono">0</text>
 <text x="770" y="372" class="mono">0</text>
 <text x="845" y="372" class="mono">0</text>
@@ -215,17 +215,17 @@
 <text x="1200" y="372" class="mono">0</text>
 <text x="1300" y="372" class="mono">0</text>
 <text x="1415" y="372" class="mono">0</text>
-<rect x="20" y="382" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="382" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="382" x2="1520" y2="382" stroke="#e5e7eb"/>
-<text x="20" y="400" class="cell">Nawern</text>
-<text x="220" y="400" class="mono">3</text>
-<text x="280" y="400" class="mono">250.4</text>
-<text x="365" y="400" class="mono">61.0</text>
-<text x="445" y="400" class="mono">4.0</text>
-<text x="530" y="400" class="mono">5.2</text>
+<text x="20" y="400" class="cell">Meatmuncher</text>
+<text x="220" y="400" class="mono">0</text>
+<text x="280" y="400" class="mono">178.8</text>
+<text x="365" y="400" class="mono">62.7</text>
+<text x="445" y="400" class="mono">20.7</text>
+<text x="530" y="400" class="mono">22.7</text>
 <text x="610" y="400" class="mono">3</text>
 <text x="660" y="400" class="mono">1</text>
-<text x="710" y="400" class="mono">3</text>
+<text x="710" y="400" class="mono">2</text>
 <text x="770" y="400" class="mono">0</text>
 <text x="845" y="400" class="mono">0</text>
 <text x="900" y="400" class="mono">0</text>
@@ -234,15 +234,15 @@
 <text x="1200" y="400" class="mono">0</text>
 <text x="1300" y="400" class="mono">0</text>
 <text x="1415" y="400" class="mono">0</text>
-<rect x="20" y="410" width="1500" height="28" fill="#fef3c7"/>
+<rect x="20" y="410" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="410" x2="1520" y2="410" stroke="#e5e7eb"/>
-<text x="20" y="428" class="cell">Ambitious</text>
-<text x="220" y="428" class="mono">3</text>
-<text x="280" y="428" class="mono">236.9</text>
-<text x="365" y="428" class="mono">63.7</text>
-<text x="445" y="428" class="mono">0.0</text>
-<text x="530" y="428" class="mono">0.0</text>
-<text x="610" y="428" class="mono">0</text>
+<text x="20" y="428" class="cell">Jorailin</text>
+<text x="220" y="428" class="mono">0</text>
+<text x="280" y="428" class="mono">181.9</text>
+<text x="365" y="428" class="mono">63.1</text>
+<text x="445" y="428" class="mono">23.4</text>
+<text x="530" y="428" class="mono">27.4</text>
+<text x="610" y="428" class="mono">2</text>
 <text x="660" y="428" class="mono">0</text>
 <text x="710" y="428" class="mono">0</text>
 <text x="770" y="428" class="mono">0</text>
@@ -255,15 +255,15 @@
 <text x="1415" y="428" class="mono">0</text>
 <rect x="20" y="438" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="438" x2="1520" y2="438" stroke="#e5e7eb"/>
-<text x="20" y="456" class="cell">Midnas</text>
-<text x="220" y="456" class="mono">2</text>
-<text x="280" y="456" class="mono">253.2</text>
-<text x="365" y="456" class="mono">60.2</text>
-<text x="445" y="456" class="mono">6.1</text>
-<text x="530" y="456" class="mono">8.1</text>
-<text x="610" y="456" class="mono">3</text>
-<text x="660" y="456" class="mono">1</text>
-<text x="710" y="456" class="mono">0</text>
+<text x="20" y="456" class="cell">Axememore</text>
+<text x="220" y="456" class="mono">0</text>
+<text x="280" y="456" class="mono">183.6</text>
+<text x="365" y="456" class="mono">67.6</text>
+<text x="445" y="456" class="mono">3.4</text>
+<text x="530" y="456" class="mono">2.6</text>
+<text x="610" y="456" class="mono">1</text>
+<text x="660" y="456" class="mono">2</text>
+<text x="710" y="456" class="mono">1</text>
 <text x="770" y="456" class="mono">0</text>
 <text x="845" y="456" class="mono">0</text>
 <text x="900" y="456" class="mono">0</text>
@@ -274,15 +274,15 @@
 <text x="1415" y="456" class="mono">0</text>
 <rect x="20" y="466" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="466" x2="1520" y2="466" stroke="#e5e7eb"/>
-<text x="20" y="484" class="cell">Druidcyy</text>
-<text x="220" y="484" class="mono">2</text>
-<text x="280" y="484" class="mono">241.3</text>
-<text x="365" y="484" class="mono">58.7</text>
-<text x="445" y="484" class="mono">4.5</text>
-<text x="530" y="484" class="mono">7.2</text>
+<text x="20" y="484" class="cell">Girthbone</text>
+<text x="220" y="484" class="mono">0</text>
+<text x="280" y="484" class="mono">190.7</text>
+<text x="365" y="484" class="mono">69.6</text>
+<text x="445" y="484" class="mono">11.3</text>
+<text x="530" y="484" class="mono">9.6</text>
 <text x="610" y="484" class="mono">3</text>
-<text x="660" y="484" class="mono">2</text>
-<text x="710" y="484" class="mono">1</text>
+<text x="660" y="484" class="mono">0</text>
+<text x="710" y="484" class="mono">0</text>
 <text x="770" y="484" class="mono">0</text>
 <text x="845" y="484" class="mono">0</text>
 <text x="900" y="484" class="mono">0</text>
@@ -293,14 +293,14 @@
 <text x="1415" y="484" class="mono">0</text>
 <rect x="20" y="494" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="494" x2="1520" y2="494" stroke="#e5e7eb"/>
-<text x="20" y="512" class="cell">Makende</text>
-<text x="220" y="512" class="mono">2</text>
-<text x="280" y="512" class="mono">214.2</text>
-<text x="365" y="512" class="mono">49.9</text>
-<text x="445" y="512" class="mono">5.1</text>
-<text x="530" y="512" class="mono">2.9</text>
+<text x="20" y="512" class="cell">Gustovich</text>
+<text x="220" y="512" class="mono">0</text>
+<text x="280" y="512" class="mono">191.5</text>
+<text x="365" y="512" class="mono">59.6</text>
+<text x="445" y="512" class="mono">19.2</text>
+<text x="530" y="512" class="mono">17.9</text>
 <text x="610" y="512" class="mono">2</text>
-<text x="660" y="512" class="mono">1</text>
+<text x="660" y="512" class="mono">2</text>
 <text x="710" y="512" class="mono">0</text>
 <text x="770" y="512" class="mono">0</text>
 <text x="845" y="512" class="mono">0</text>
@@ -312,13 +312,13 @@
 <text x="1415" y="512" class="mono">0</text>
 <rect x="20" y="522" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="522" x2="1520" y2="522" stroke="#e5e7eb"/>
-<text x="20" y="540" class="cell">Ekureru</text>
-<text x="220" y="540" class="mono">2</text>
-<text x="280" y="540" class="mono">201.6</text>
-<text x="365" y="540" class="mono">62.8</text>
-<text x="445" y="540" class="mono">0.0</text>
-<text x="530" y="540" class="mono">0.0</text>
-<text x="610" y="540" class="mono">0</text>
+<text x="20" y="540" class="cell">Snackermz</text>
+<text x="220" y="540" class="mono">0</text>
+<text x="280" y="540" class="mono">195.2</text>
+<text x="365" y="540" class="mono">65.0</text>
+<text x="445" y="540" class="mono">6.4</text>
+<text x="530" y="540" class="mono">9.6</text>
+<text x="610" y="540" class="mono">2</text>
 <text x="660" y="540" class="mono">3</text>
 <text x="710" y="540" class="mono">2</text>
 <text x="770" y="540" class="mono">0</text>
@@ -331,14 +331,14 @@
 <text x="1415" y="540" class="mono">0</text>
 <rect x="20" y="550" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="550" x2="1520" y2="550" stroke="#e5e7eb"/>
-<text x="20" y="568" class="cell">Rokomito</text>
+<text x="20" y="568" class="cell">Ekureru</text>
 <text x="220" y="568" class="mono">2</text>
-<text x="280" y="568" class="mono">145.6</text>
-<text x="365" y="568" class="mono">52.8</text>
-<text x="445" y="568" class="mono">2.1</text>
-<text x="530" y="568" class="mono">7.3</text>
-<text x="610" y="568" class="mono">3</text>
-<text x="660" y="568" class="mono">0</text>
+<text x="280" y="568" class="mono">201.6</text>
+<text x="365" y="568" class="mono">62.8</text>
+<text x="445" y="568" class="mono">0.0</text>
+<text x="530" y="568" class="mono">0.0</text>
+<text x="610" y="568" class="mono">0</text>
+<text x="660" y="568" class="mono">3</text>
 <text x="710" y="568" class="mono">2</text>
 <text x="770" y="568" class="mono">0</text>
 <text x="845" y="568" class="mono">0</text>
@@ -350,12 +350,12 @@
 <text x="1415" y="568" class="mono">0</text>
 <rect x="20" y="578" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="578" x2="1520" y2="578" stroke="#e5e7eb"/>
-<text x="20" y="596" class="cell">Stormstiker</text>
-<text x="220" y="596" class="mono">1</text>
-<text x="280" y="596" class="mono">248.5</text>
-<text x="365" y="596" class="mono">61.0</text>
-<text x="445" y="596" class="mono">5.6</text>
-<text x="530" y="596" class="mono">6.1</text>
+<text x="20" y="596" class="cell">Naturetouch</text>
+<text x="220" y="596" class="mono">0</text>
+<text x="280" y="596" class="mono">204.0</text>
+<text x="365" y="596" class="mono">68.2</text>
+<text x="445" y="596" class="mono">5.1</text>
+<text x="530" y="596" class="mono">3.4</text>
 <text x="610" y="596" class="mono">3</text>
 <text x="660" y="596" class="mono">1</text>
 <text x="710" y="596" class="mono">0</text>
@@ -369,15 +369,15 @@
 <text x="1415" y="596" class="mono">0</text>
 <rect x="20" y="606" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="606" x2="1520" y2="606" stroke="#e5e7eb"/>
-<text x="20" y="624" class="cell">Koukenbol</text>
-<text x="220" y="624" class="mono">1</text>
-<text x="280" y="624" class="mono">248.3</text>
-<text x="365" y="624" class="mono">61.1</text>
-<text x="445" y="624" class="mono">5.5</text>
-<text x="530" y="624" class="mono">5.6</text>
-<text x="610" y="624" class="mono">3</text>
-<text x="660" y="624" class="mono">1</text>
-<text x="710" y="624" class="mono">2</text>
+<text x="20" y="624" class="cell">Topsoon</text>
+<text x="220" y="624" class="mono">0</text>
+<text x="280" y="624" class="mono">204.5</text>
+<text x="365" y="624" class="mono">64.7</text>
+<text x="445" y="624" class="mono">26.1</text>
+<text x="530" y="624" class="mono">22.2</text>
+<text x="610" y="624" class="mono">2</text>
+<text x="660" y="624" class="mono">0</text>
+<text x="710" y="624" class="mono">0</text>
 <text x="770" y="624" class="mono">0</text>
 <text x="845" y="624" class="mono">0</text>
 <text x="900" y="624" class="mono">0</text>
@@ -388,15 +388,15 @@
 <text x="1415" y="624" class="mono">0</text>
 <rect x="20" y="634" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="634" x2="1520" y2="634" stroke="#e5e7eb"/>
-<text x="20" y="652" class="cell">Adalette</text>
-<text x="220" y="652" class="mono">1</text>
-<text x="280" y="652" class="mono">243.5</text>
-<text x="365" y="652" class="mono">61.5</text>
-<text x="445" y="652" class="mono">7.2</text>
-<text x="530" y="652" class="mono">5.9</text>
-<text x="610" y="652" class="mono">3</text>
-<text x="660" y="652" class="mono">0</text>
-<text x="710" y="652" class="mono">0</text>
+<text x="20" y="652" class="cell">Mazgro</text>
+<text x="220" y="652" class="mono">0</text>
+<text x="280" y="652" class="mono">208.0</text>
+<text x="365" y="652" class="mono">65.3</text>
+<text x="445" y="652" class="mono">4.6</text>
+<text x="530" y="652" class="mono">2.6</text>
+<text x="610" y="652" class="mono">2</text>
+<text x="660" y="652" class="mono">2</text>
+<text x="710" y="652" class="mono">3</text>
 <text x="770" y="652" class="mono">0</text>
 <text x="845" y="652" class="mono">0</text>
 <text x="900" y="652" class="mono">0</text>
@@ -407,13 +407,13 @@
 <text x="1415" y="652" class="mono">0</text>
 <rect x="20" y="662" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="662" x2="1520" y2="662" stroke="#e5e7eb"/>
-<text x="20" y="680" class="cell">Lezner</text>
-<text x="220" y="680" class="mono">1</text>
-<text x="280" y="680" class="mono">232.5</text>
-<text x="365" y="680" class="mono">60.3</text>
-<text x="445" y="680" class="mono">22.0</text>
-<text x="530" y="680" class="mono">15.1</text>
-<text x="610" y="680" class="mono">3</text>
+<text x="20" y="680" class="cell">Makende</text>
+<text x="220" y="680" class="mono">2</text>
+<text x="280" y="680" class="mono">214.2</text>
+<text x="365" y="680" class="mono">49.9</text>
+<text x="445" y="680" class="mono">5.1</text>
+<text x="530" y="680" class="mono">2.9</text>
+<text x="610" y="680" class="mono">2</text>
 <text x="660" y="680" class="mono">1</text>
 <text x="710" y="680" class="mono">0</text>
 <text x="770" y="680" class="mono">0</text>
@@ -426,15 +426,15 @@
 <text x="1415" y="680" class="mono">0</text>
 <rect x="20" y="690" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="690" x2="1520" y2="690" stroke="#e5e7eb"/>
-<text x="20" y="708" class="cell">Voster</text>
+<text x="20" y="708" class="cell">Mynie</text>
 <text x="220" y="708" class="mono">1</text>
-<text x="280" y="708" class="mono">231.4</text>
-<text x="365" y="708" class="mono">62.8</text>
-<text x="445" y="708" class="mono">11.4</text>
-<text x="530" y="708" class="mono">9.6</text>
+<text x="280" y="708" class="mono">219.9</text>
+<text x="365" y="708" class="mono">63.1</text>
+<text x="445" y="708" class="mono">20.5</text>
+<text x="530" y="708" class="mono">21.6</text>
 <text x="610" y="708" class="mono">3</text>
-<text x="660" y="708" class="mono">1</text>
-<text x="710" y="708" class="mono">0</text>
+<text x="660" y="708" class="mono">2</text>
+<text x="710" y="708" class="mono">2</text>
 <text x="770" y="708" class="mono">0</text>
 <text x="845" y="708" class="mono">0</text>
 <text x="900" y="708" class="mono">0</text>
@@ -464,15 +464,15 @@
 <text x="1415" y="736" class="mono">0</text>
 <rect x="20" y="746" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="746" x2="1520" y2="746" stroke="#e5e7eb"/>
-<text x="20" y="764" class="cell">Mynie</text>
+<text x="20" y="764" class="cell">Voster</text>
 <text x="220" y="764" class="mono">1</text>
-<text x="280" y="764" class="mono">219.9</text>
-<text x="365" y="764" class="mono">63.1</text>
-<text x="445" y="764" class="mono">20.5</text>
-<text x="530" y="764" class="mono">21.6</text>
+<text x="280" y="764" class="mono">231.4</text>
+<text x="365" y="764" class="mono">62.8</text>
+<text x="445" y="764" class="mono">11.4</text>
+<text x="530" y="764" class="mono">9.6</text>
 <text x="610" y="764" class="mono">3</text>
-<text x="660" y="764" class="mono">2</text>
-<text x="710" y="764" class="mono">2</text>
+<text x="660" y="764" class="mono">1</text>
+<text x="710" y="764" class="mono">0</text>
 <text x="770" y="764" class="mono">0</text>
 <text x="845" y="764" class="mono">0</text>
 <text x="900" y="764" class="mono">0</text>
@@ -483,15 +483,15 @@
 <text x="1415" y="764" class="mono">0</text>
 <rect x="20" y="774" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="774" x2="1520" y2="774" stroke="#e5e7eb"/>
-<text x="20" y="792" class="cell">Dokuku</text>
+<text x="20" y="792" class="cell">Lezner</text>
 <text x="220" y="792" class="mono">1</text>
-<text x="280" y="792" class="mono">161.0</text>
-<text x="365" y="792" class="mono">59.8</text>
-<text x="445" y="792" class="mono">2.9</text>
-<text x="530" y="792" class="mono">19.0</text>
-<text x="610" y="792" class="mono">1</text>
-<text x="660" y="792" class="mono">3</text>
-<text x="710" y="792" class="mono">3</text>
+<text x="280" y="792" class="mono">232.5</text>
+<text x="365" y="792" class="mono">60.3</text>
+<text x="445" y="792" class="mono">22.0</text>
+<text x="530" y="792" class="mono">15.1</text>
+<text x="610" y="792" class="mono">3</text>
+<text x="660" y="792" class="mono">1</text>
+<text x="710" y="792" class="mono">0</text>
 <text x="770" y="792" class="mono">0</text>
 <text x="845" y="792" class="mono">0</text>
 <text x="900" y="792" class="mono">0</text>
@@ -500,14 +500,14 @@
 <text x="1200" y="792" class="mono">0</text>
 <text x="1300" y="792" class="mono">0</text>
 <text x="1415" y="792" class="mono">0</text>
-<rect x="20" y="802" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="802" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="802" x2="1520" y2="802" stroke="#e5e7eb"/>
-<text x="20" y="820" class="cell">Caub</text>
-<text x="220" y="820" class="mono">1</text>
-<text x="280" y="820" class="mono">124.1</text>
-<text x="365" y="820" class="mono">70.8</text>
-<text x="445" y="820" class="mono">9.1</text>
-<text x="530" y="820" class="mono">2.8</text>
+<text x="20" y="820" class="cell">Ambitious</text>
+<text x="220" y="820" class="mono">3</text>
+<text x="280" y="820" class="mono">236.9</text>
+<text x="365" y="820" class="mono">63.7</text>
+<text x="445" y="820" class="mono">0.0</text>
+<text x="530" y="820" class="mono">0.0</text>
 <text x="610" y="820" class="mono">0</text>
 <text x="660" y="820" class="mono">0</text>
 <text x="710" y="820" class="mono">0</text>
@@ -521,15 +521,15 @@
 <text x="1415" y="820" class="mono">0</text>
 <rect x="20" y="830" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="830" x2="1520" y2="830" stroke="#e5e7eb"/>
-<text x="20" y="848" class="cell">Mazgro</text>
-<text x="220" y="848" class="mono">0</text>
-<text x="280" y="848" class="mono">208.0</text>
-<text x="365" y="848" class="mono">65.3</text>
-<text x="445" y="848" class="mono">4.6</text>
-<text x="530" y="848" class="mono">2.6</text>
-<text x="610" y="848" class="mono">2</text>
+<text x="20" y="848" class="cell">Druidcyy</text>
+<text x="220" y="848" class="mono">2</text>
+<text x="280" y="848" class="mono">241.3</text>
+<text x="365" y="848" class="mono">58.7</text>
+<text x="445" y="848" class="mono">4.5</text>
+<text x="530" y="848" class="mono">7.2</text>
+<text x="610" y="848" class="mono">3</text>
 <text x="660" y="848" class="mono">2</text>
-<text x="710" y="848" class="mono">3</text>
+<text x="710" y="848" class="mono">1</text>
 <text x="770" y="848" class="mono">0</text>
 <text x="845" y="848" class="mono">0</text>
 <text x="900" y="848" class="mono">0</text>
@@ -540,13 +540,13 @@
 <text x="1415" y="848" class="mono">0</text>
 <rect x="20" y="858" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="858" x2="1520" y2="858" stroke="#e5e7eb"/>
-<text x="20" y="876" class="cell">Topsoon</text>
-<text x="220" y="876" class="mono">0</text>
-<text x="280" y="876" class="mono">204.5</text>
-<text x="365" y="876" class="mono">64.7</text>
-<text x="445" y="876" class="mono">26.1</text>
-<text x="530" y="876" class="mono">22.2</text>
-<text x="610" y="876" class="mono">2</text>
+<text x="20" y="876" class="cell">Adalette</text>
+<text x="220" y="876" class="mono">1</text>
+<text x="280" y="876" class="mono">243.5</text>
+<text x="365" y="876" class="mono">61.5</text>
+<text x="445" y="876" class="mono">7.2</text>
+<text x="530" y="876" class="mono">5.9</text>
+<text x="610" y="876" class="mono">3</text>
 <text x="660" y="876" class="mono">0</text>
 <text x="710" y="876" class="mono">0</text>
 <text x="770" y="876" class="mono">0</text>
@@ -559,15 +559,15 @@
 <text x="1415" y="876" class="mono">0</text>
 <rect x="20" y="886" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="886" x2="1520" y2="886" stroke="#e5e7eb"/>
-<text x="20" y="904" class="cell">Naturetouch</text>
-<text x="220" y="904" class="mono">0</text>
-<text x="280" y="904" class="mono">204.0</text>
-<text x="365" y="904" class="mono">68.2</text>
-<text x="445" y="904" class="mono">5.1</text>
-<text x="530" y="904" class="mono">3.4</text>
+<text x="20" y="904" class="cell">Koukenbol</text>
+<text x="220" y="904" class="mono">1</text>
+<text x="280" y="904" class="mono">248.3</text>
+<text x="365" y="904" class="mono">61.1</text>
+<text x="445" y="904" class="mono">5.5</text>
+<text x="530" y="904" class="mono">5.6</text>
 <text x="610" y="904" class="mono">3</text>
 <text x="660" y="904" class="mono">1</text>
-<text x="710" y="904" class="mono">0</text>
+<text x="710" y="904" class="mono">2</text>
 <text x="770" y="904" class="mono">0</text>
 <text x="845" y="904" class="mono">0</text>
 <text x="900" y="904" class="mono">0</text>
@@ -578,15 +578,15 @@
 <text x="1415" y="904" class="mono">0</text>
 <rect x="20" y="914" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="914" x2="1520" y2="914" stroke="#e5e7eb"/>
-<text x="20" y="932" class="cell">Snackermz</text>
-<text x="220" y="932" class="mono">0</text>
-<text x="280" y="932" class="mono">195.2</text>
-<text x="365" y="932" class="mono">65.0</text>
-<text x="445" y="932" class="mono">6.4</text>
-<text x="530" y="932" class="mono">9.6</text>
-<text x="610" y="932" class="mono">2</text>
-<text x="660" y="932" class="mono">3</text>
-<text x="710" y="932" class="mono">2</text>
+<text x="20" y="932" class="cell">Stormstiker</text>
+<text x="220" y="932" class="mono">1</text>
+<text x="280" y="932" class="mono">248.5</text>
+<text x="365" y="932" class="mono">61.0</text>
+<text x="445" y="932" class="mono">5.6</text>
+<text x="530" y="932" class="mono">6.1</text>
+<text x="610" y="932" class="mono">3</text>
+<text x="660" y="932" class="mono">1</text>
+<text x="710" y="932" class="mono">0</text>
 <text x="770" y="932" class="mono">0</text>
 <text x="845" y="932" class="mono">0</text>
 <text x="900" y="932" class="mono">0</text>
@@ -595,17 +595,17 @@
 <text x="1200" y="932" class="mono">0</text>
 <text x="1300" y="932" class="mono">0</text>
 <text x="1415" y="932" class="mono">0</text>
-<rect x="20" y="942" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="942" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="942" x2="1520" y2="942" stroke="#e5e7eb"/>
-<text x="20" y="960" class="cell">Gustovich</text>
-<text x="220" y="960" class="mono">0</text>
-<text x="280" y="960" class="mono">191.5</text>
-<text x="365" y="960" class="mono">59.6</text>
-<text x="445" y="960" class="mono">19.2</text>
-<text x="530" y="960" class="mono">17.9</text>
-<text x="610" y="960" class="mono">2</text>
-<text x="660" y="960" class="mono">2</text>
-<text x="710" y="960" class="mono">0</text>
+<text x="20" y="960" class="cell">Nawern</text>
+<text x="220" y="960" class="mono">3</text>
+<text x="280" y="960" class="mono">250.4</text>
+<text x="365" y="960" class="mono">61.0</text>
+<text x="445" y="960" class="mono">4.0</text>
+<text x="530" y="960" class="mono">5.2</text>
+<text x="610" y="960" class="mono">3</text>
+<text x="660" y="960" class="mono">1</text>
+<text x="710" y="960" class="mono">3</text>
 <text x="770" y="960" class="mono">0</text>
 <text x="845" y="960" class="mono">0</text>
 <text x="900" y="960" class="mono">0</text>
@@ -616,14 +616,14 @@
 <text x="1415" y="960" class="mono">0</text>
 <rect x="20" y="970" width="1500" height="28" fill="#ecfccb"/>
 <line x1="20" y1="970" x2="1520" y2="970" stroke="#e5e7eb"/>
-<text x="20" y="988" class="cell">Girthbone</text>
-<text x="220" y="988" class="mono">0</text>
-<text x="280" y="988" class="mono">190.7</text>
-<text x="365" y="988" class="mono">69.6</text>
-<text x="445" y="988" class="mono">11.3</text>
-<text x="530" y="988" class="mono">9.6</text>
+<text x="20" y="988" class="cell">Midnas</text>
+<text x="220" y="988" class="mono">2</text>
+<text x="280" y="988" class="mono">253.2</text>
+<text x="365" y="988" class="mono">60.2</text>
+<text x="445" y="988" class="mono">6.1</text>
+<text x="530" y="988" class="mono">8.1</text>
 <text x="610" y="988" class="mono">3</text>
-<text x="660" y="988" class="mono">0</text>
+<text x="660" y="988" class="mono">1</text>
 <text x="710" y="988" class="mono">0</text>
 <text x="770" y="988" class="mono">0</text>
 <text x="845" y="988" class="mono">0</text>
@@ -633,17 +633,17 @@
 <text x="1200" y="988" class="mono">0</text>
 <text x="1300" y="988" class="mono">0</text>
 <text x="1415" y="988" class="mono">0</text>
-<rect x="20" y="998" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="998" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="998" x2="1520" y2="998" stroke="#e5e7eb"/>
-<text x="20" y="1016" class="cell">Axememore</text>
-<text x="220" y="1016" class="mono">0</text>
-<text x="280" y="1016" class="mono">183.6</text>
-<text x="365" y="1016" class="mono">67.6</text>
-<text x="445" y="1016" class="mono">3.4</text>
-<text x="530" y="1016" class="mono">2.6</text>
-<text x="610" y="1016" class="mono">1</text>
-<text x="660" y="1016" class="mono">2</text>
-<text x="710" y="1016" class="mono">1</text>
+<text x="20" y="1016" class="cell">Amends</text>
+<text x="220" y="1016" class="mono">3</text>
+<text x="280" y="1016" class="mono">255.4</text>
+<text x="365" y="1016" class="mono">57.0</text>
+<text x="445" y="1016" class="mono">18.7</text>
+<text x="530" y="1016" class="mono">9.0</text>
+<text x="610" y="1016" class="mono">0</text>
+<text x="660" y="1016" class="mono">0</text>
+<text x="710" y="1016" class="mono">0</text>
 <text x="770" y="1016" class="mono">0</text>
 <text x="845" y="1016" class="mono">0</text>
 <text x="900" y="1016" class="mono">0</text>
@@ -652,14 +652,14 @@
 <text x="1200" y="1016" class="mono">0</text>
 <text x="1300" y="1016" class="mono">0</text>
 <text x="1415" y="1016" class="mono">0</text>
-<rect x="20" y="1026" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="1026" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="1026" x2="1520" y2="1026" stroke="#e5e7eb"/>
-<text x="20" y="1044" class="cell">Jorailin</text>
-<text x="220" y="1044" class="mono">0</text>
-<text x="280" y="1044" class="mono">181.9</text>
-<text x="365" y="1044" class="mono">63.1</text>
-<text x="445" y="1044" class="mono">23.4</text>
-<text x="530" y="1044" class="mono">27.4</text>
+<text x="20" y="1044" class="cell">Lochien</text>
+<text x="220" y="1044" class="mono">4</text>
+<text x="280" y="1044" class="mono">255.7</text>
+<text x="365" y="1044" class="mono">44.4</text>
+<text x="445" y="1044" class="mono">9.0</text>
+<text x="530" y="1044" class="mono">6.2</text>
 <text x="610" y="1044" class="mono">2</text>
 <text x="660" y="1044" class="mono">0</text>
 <text x="710" y="1044" class="mono">0</text>
@@ -671,17 +671,17 @@
 <text x="1200" y="1044" class="mono">0</text>
 <text x="1300" y="1044" class="mono">0</text>
 <text x="1415" y="1044" class="mono">0</text>
-<rect x="20" y="1054" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="1054" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="1054" x2="1520" y2="1054" stroke="#e5e7eb"/>
-<text x="20" y="1072" class="cell">Meatmuncher</text>
-<text x="220" y="1072" class="mono">0</text>
-<text x="280" y="1072" class="mono">178.8</text>
-<text x="365" y="1072" class="mono">62.7</text>
-<text x="445" y="1072" class="mono">20.7</text>
-<text x="530" y="1072" class="mono">22.7</text>
-<text x="610" y="1072" class="mono">3</text>
+<text x="20" y="1072" class="cell">Totemhero</text>
+<text x="220" y="1072" class="mono">3</text>
+<text x="280" y="1072" class="mono">275.7</text>
+<text x="365" y="1072" class="mono">56.4</text>
+<text x="445" y="1072" class="mono">6.7</text>
+<text x="530" y="1072" class="mono">7.7</text>
+<text x="610" y="1072" class="mono">2</text>
 <text x="660" y="1072" class="mono">1</text>
-<text x="710" y="1072" class="mono">2</text>
+<text x="710" y="1072" class="mono">3</text>
 <text x="770" y="1072" class="mono">0</text>
 <text x="845" y="1072" class="mono">0</text>
 <text x="900" y="1072" class="mono">0</text>
@@ -690,17 +690,17 @@
 <text x="1200" y="1072" class="mono">0</text>
 <text x="1300" y="1072" class="mono">0</text>
 <text x="1415" y="1072" class="mono">0</text>
-<rect x="20" y="1082" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="1082" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="1082" x2="1520" y2="1082" stroke="#e5e7eb"/>
-<text x="20" y="1100" class="cell">Lafi</text>
-<text x="220" y="1100" class="mono">0</text>
-<text x="280" y="1100" class="mono">169.9</text>
-<text x="365" y="1100" class="mono">63.7</text>
-<text x="445" y="1100" class="mono">12.7</text>
-<text x="530" y="1100" class="mono">8.8</text>
-<text x="610" y="1100" class="mono">3</text>
-<text x="660" y="1100" class="mono">2</text>
-<text x="710" y="1100" class="mono">0</text>
+<text x="20" y="1100" class="cell">Sarys</text>
+<text x="220" y="1100" class="mono">4</text>
+<text x="280" y="1100" class="mono">276.2</text>
+<text x="365" y="1100" class="mono">57.6</text>
+<text x="445" y="1100" class="mono">0.3</text>
+<text x="530" y="1100" class="mono">0.0</text>
+<text x="610" y="1100" class="mono">0</text>
+<text x="660" y="1100" class="mono">0</text>
+<text x="710" y="1100" class="mono">3</text>
 <text x="770" y="1100" class="mono">0</text>
 <text x="845" y="1100" class="mono">0</text>
 <text x="900" y="1100" class="mono">0</text>
@@ -709,17 +709,17 @@
 <text x="1200" y="1100" class="mono">0</text>
 <text x="1300" y="1100" class="mono">0</text>
 <text x="1415" y="1100" class="mono">0</text>
-<rect x="20" y="1110" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="1110" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="1110" x2="1520" y2="1110" stroke="#e5e7eb"/>
-<text x="20" y="1128" class="cell">Iriale</text>
-<text x="220" y="1128" class="mono">0</text>
-<text x="280" y="1128" class="mono">160.7</text>
-<text x="365" y="1128" class="mono">72.8</text>
-<text x="445" y="1128" class="mono">27.4</text>
-<text x="530" y="1128" class="mono">25.9</text>
-<text x="610" y="1128" class="mono">4</text>
-<text x="660" y="1128" class="mono">2</text>
-<text x="710" y="1128" class="mono">3</text>
+<text x="20" y="1128" class="cell">Shangcheeze</text>
+<text x="220" y="1128" class="mono">3</text>
+<text x="280" y="1128" class="mono">279.5</text>
+<text x="365" y="1128" class="mono">54.8</text>
+<text x="445" y="1128" class="mono">4.9</text>
+<text x="530" y="1128" class="mono">3.8</text>
+<text x="610" y="1128" class="mono">1</text>
+<text x="660" y="1128" class="mono">1</text>
+<text x="710" y="1128" class="mono">0</text>
 <text x="770" y="1128" class="mono">0</text>
 <text x="845" y="1128" class="mono">0</text>
 <text x="900" y="1128" class="mono">0</text>
@@ -728,16 +728,16 @@
 <text x="1200" y="1128" class="mono">0</text>
 <text x="1300" y="1128" class="mono">0</text>
 <text x="1415" y="1128" class="mono">0</text>
-<rect x="20" y="1138" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="1138" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="1138" x2="1520" y2="1138" stroke="#e5e7eb"/>
-<text x="20" y="1156" class="cell">Zancoo</text>
-<text x="220" y="1156" class="mono">0</text>
-<text x="280" y="1156" class="mono">156.8</text>
-<text x="365" y="1156" class="mono">69.7</text>
-<text x="445" y="1156" class="mono">30.5</text>
-<text x="530" y="1156" class="mono">15.9</text>
+<text x="20" y="1156" class="cell">Junoxz</text>
+<text x="220" y="1156" class="mono">3</text>
+<text x="280" y="1156" class="mono">287.7</text>
+<text x="365" y="1156" class="mono">59.2</text>
+<text x="445" y="1156" class="mono">4.3</text>
+<text x="530" y="1156" class="mono">2.4</text>
 <text x="610" y="1156" class="mono">3</text>
-<text x="660" y="1156" class="mono">0</text>
+<text x="660" y="1156" class="mono">1</text>
 <text x="710" y="1156" class="mono">0</text>
 <text x="770" y="1156" class="mono">0</text>
 <text x="845" y="1156" class="mono">0</text>
@@ -747,17 +747,17 @@
 <text x="1200" y="1156" class="mono">0</text>
 <text x="1300" y="1156" class="mono">0</text>
 <text x="1415" y="1156" class="mono">0</text>
-<rect x="20" y="1166" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="1166" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="1166" x2="1520" y2="1166" stroke="#e5e7eb"/>
-<text x="20" y="1184" class="cell">Gladriel</text>
-<text x="220" y="1184" class="mono">0</text>
-<text x="280" y="1184" class="mono">156.3</text>
-<text x="365" y="1184" class="mono">59.2</text>
-<text x="445" y="1184" class="mono">6.5</text>
-<text x="530" y="1184" class="mono">12.4</text>
-<text x="610" y="1184" class="mono">2</text>
+<text x="20" y="1184" class="cell">Obanion</text>
+<text x="220" y="1184" class="mono">4</text>
+<text x="280" y="1184" class="mono">290.7</text>
+<text x="365" y="1184" class="mono">55.3</text>
+<text x="445" y="1184" class="mono">0.3</text>
+<text x="530" y="1184" class="mono">0.0</text>
+<text x="610" y="1184" class="mono">0</text>
 <text x="660" y="1184" class="mono">0</text>
-<text x="710" y="1184" class="mono">2</text>
+<text x="710" y="1184" class="mono">0</text>
 <text x="770" y="1184" class="mono">0</text>
 <text x="845" y="1184" class="mono">0</text>
 <text x="900" y="1184" class="mono">0</text>
@@ -766,14 +766,14 @@
 <text x="1200" y="1184" class="mono">0</text>
 <text x="1300" y="1184" class="mono">0</text>
 <text x="1415" y="1184" class="mono">0</text>
-<rect x="20" y="1194" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="1194" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="1194" x2="1520" y2="1194" stroke="#e5e7eb"/>
-<text x="20" y="1212" class="cell">Aerodian</text>
-<text x="220" y="1212" class="mono">0</text>
-<text x="280" y="1212" class="mono">151.9</text>
-<text x="365" y="1212" class="mono">71.1</text>
-<text x="445" y="1212" class="mono">8.4</text>
-<text x="530" y="1212" class="mono">6.5</text>
+<text x="20" y="1212" class="cell">Coincidence</text>
+<text x="220" y="1212" class="mono">3</text>
+<text x="280" y="1212" class="mono">299.2</text>
+<text x="365" y="1212" class="mono">52.9</text>
+<text x="445" y="1212" class="mono">5.4</text>
+<text x="530" y="1212" class="mono">5.5</text>
 <text x="610" y="1212" class="mono">2</text>
 <text x="660" y="1212" class="mono">0</text>
 <text x="710" y="1212" class="mono">0</text>
@@ -785,16 +785,16 @@
 <text x="1200" y="1212" class="mono">0</text>
 <text x="1300" y="1212" class="mono">0</text>
 <text x="1415" y="1212" class="mono">0</text>
-<rect x="20" y="1222" width="1500" height="28" fill="#ecfccb"/>
+<rect x="20" y="1222" width="1500" height="28" fill="#fef3c7"/>
 <line x1="20" y1="1222" x2="1520" y2="1222" stroke="#e5e7eb"/>
-<text x="20" y="1240" class="cell">Ichabaddie</text>
-<text x="220" y="1240" class="mono">0</text>
-<text x="280" y="1240" class="mono">124.6</text>
-<text x="365" y="1240" class="mono">68.6</text>
-<text x="445" y="1240" class="mono">17.0</text>
-<text x="530" y="1240" class="mono">8.8</text>
-<text x="610" y="1240" class="mono">1</text>
-<text x="660" y="1240" class="mono">0</text>
+<text x="20" y="1240" class="cell">Lopp</text>
+<text x="220" y="1240" class="mono">4</text>
+<text x="280" y="1240" class="mono">335.1</text>
+<text x="365" y="1240" class="mono">50.1</text>
+<text x="445" y="1240" class="mono">13.4</text>
+<text x="530" y="1240" class="mono">12.3</text>
+<text x="610" y="1240" class="mono">3</text>
+<text x="660" y="1240" class="mono">2</text>
 <text x="710" y="1240" class="mono">0</text>
 <text x="770" y="1240" class="mono">0</text>
 <text x="845" y="1240" class="mono">0</text>
