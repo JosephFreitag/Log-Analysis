@@ -12,6 +12,8 @@ This report consolidates all findings across Arcane Aura performance, Arcane Bom
   [`anomalus_wipe_responsibility_dual_hypothesis.md`](./anomalus_wipe_responsibility_dual_hypothesis.md)
 - Rune soak damage and unsafe no-debuff exposures:
   [`anomalus_rune_soak_analysis.md`](./anomalus_rune_soak_analysis.md)
+- Tank scorecard (Caub, Ichabaddie, Ekureru, Zancoo, Aerodian):
+  [`anomalus_tank_scorecard.md`](./anomalus_tank_scorecard.md)
 
 ---
 
