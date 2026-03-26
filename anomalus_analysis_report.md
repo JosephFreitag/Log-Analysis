@@ -47,9 +47,9 @@ Bombs were traced per player from `Arcane Overload -> Arcane Bomb` to classify w
 This second Arcane Bomb chart now uses a simple chronological bullet-style structure per pull for carriers whose bombs detonated early and where the carrier died at/near detonation.
 
 - Window shown per case: **6 seconds before death** (listed in order)
-- **Red** lines = damage taken (with spell name)
-- **Green** lines = healing received (with spell name)
-- Excludes events within **2.0s of pull end**
+- **Red** lines = negative events (damage taken, with spell name)
+- **Green** lines = positive events (healing received, with spell name)
+- Includes all qualifying early-det death cases, grouped by pull
 
 ![Arcane Bomb Early-Det Death Timelines](./anomalus_bomb_early_det_timeline.svg)
 
