@@ -7,6 +7,10 @@ This report isolates **wipe-pull Arcane Bomb chains** and explicitly models the 
 
 Because logs do not expose exact movement vectors/positions, both scenarios remain plausible for full-timer starts.
 
+## Included Scorecard Graphic
+
+![Dual-Hypothesis Wipe Responsibility Scorecard](./anomalus_wipe_responsibility_scorecard.svg)
+
 ---
 
 ## Wipe-Pull Cluster Breakdown (Both Possibilities Shown)
@@ -42,23 +46,39 @@ Because logs do not expose exact movement vectors/positions, both scenarios rema
 
 ---
 
-## Dual-Hypothesis Blame Scorecard (Wipe Pulls)
+## Explicit Scorecard Method (What the scores mean)
 
-Scoring units are weighted by cluster raid damage from wipe events.
+Scoring units are weighted by **wipe-cluster raid damage**.
 
-- `confirmed_root` = direct, non-ambiguous root-cause damage assignment.
-- `scenario_A` = assign ambiguous full-timer starts to first detonator.
-- `scenario_B` = assign ambiguous full-timer starts to next carrier who early-det'd.
-- `midpoint_composite` = `confirmed_root + 0.5 * scenario_A + 0.5 * scenario_B`.
+Raw components:
+- `confirmed_root`: direct, non-ambiguous root-cause assignment.
+- `scenario_A`: assign ambiguous full-timer starts to first detonator.
+- `scenario_B`: assign ambiguous full-timer starts to next carrier who early-det'd.
 
-| player | confirmed_root | scenario_A | scenario_B | midpoint_composite | interpretation |
-|---|---:|---:|---:|---:|---|
-| Axememore | 0 | 149577 | 0 | 74789 | High under Scenario A (first-bomb positioning) |
-| Druidcyy | 0 | 0 | 149577 | 74789 | High under Scenario B (next-bomb path timing/line) |
-| Voster | 30069 | 0 | 34894 | 47516 | Confirmed early root-cause once + possible Scenario B role |
-| Zancoo | 0 | 34894 | 0 | 17447 | Scenario A-sensitive responsibility |
-| Rokomito | 0 | 14150 | 0 | 7075 | Lower-volume Scenario A-sensitive responsibility |
-| Totemhero | 0 | 0 | 14150 | 7075 | Lower-volume Scenario B-sensitive responsibility |
+Lens scores:
+- `A_raw = confirmed_root + scenario_A`  (positioning accountability lens)
+- `B_raw = confirmed_root + scenario_B`  (pathing/timing accountability lens)
+- `balanced_raw = confirmed_root + 0.5*scenario_A + 0.5*scenario_B`
+
+Normalized indices (for easy comparison):
+- `A_index = 100 * A_raw / max(A_raw)`
+- `B_index = 100 * B_raw / max(B_raw)`
+- `balanced_index = 100 * balanced_raw / max(balanced_raw)`
+
+Notes:
+- The Ekureru -> Stormstiker wipe cluster is labeled external (`Unstable Magic`) and is **excluded** from this player-blame scorecard.
+- A high A score does **not** prove B is false (and vice versa); it shows priority under that coaching lens.
+
+## Dual-Hypothesis Blame Scorecard (Ranked by `balanced_index`)
+
+| rank | player | confirmed_root | scenario_A | scenario_B | A_raw | B_raw | balanced_raw | A_index | B_index | balanced_index | interpretation |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| 1 | Axememore | 0 | 149577 | 0 | 149577 | 0 | 74789 | 100.0 | 0.0 | 100.0 | Dominant under Scenario A (first-bomb distance/placement) |
+| 2 | Druidcyy | 0 | 0 | 149577 | 0 | 149577 | 74789 | 0.0 | 100.0 | 100.0 | Dominant under Scenario B (next-bomb path/timing overlap) |
+| 3 | Voster | 30069 | 0 | 34894 | 30069 | 64963 | 47516 | 20.1 | 43.4 | 63.5 | Confirmed root once + additional Scenario B-sensitive role |
+| 4 | Zancoo | 0 | 34894 | 0 | 34894 | 0 | 17447 | 23.3 | 0.0 | 23.3 | Scenario A-sensitive responsibility in one large chain |
+| 5 | Rokomito | 0 | 14150 | 0 | 14150 | 0 | 7075 | 9.5 | 0.0 | 9.5 | Lower-volume Scenario A-sensitive role |
+| 6 | Totemhero | 0 | 0 | 14150 | 0 | 14150 | 7075 | 0.0 | 9.5 | 9.5 | Lower-volume Scenario B-sensitive role |
 
 ---
 
