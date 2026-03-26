@@ -6,6 +6,11 @@ This report consolidates all findings across Arcane Aura performance, Arcane Bom
 
 ![Arcane Bomb Player Scorecard](./anomalus_bomb_scorecard.svg)
 
+## Additional Linked Report
+
+- Dual-hypothesis wipe responsibility and blame modeling:
+  [`anomalus_wipe_responsibility_dual_hypothesis.md`](./anomalus_wipe_responsibility_dual_hypothesis.md)
+
 ---
 
 ## 1) Pull Outcomes
