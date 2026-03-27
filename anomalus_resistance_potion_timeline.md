@@ -5,6 +5,7 @@ Tracked consumables:
 - **Greater Arcane Protection Potion** (GAPP)
 
 Each pull chart includes events from **-60s pre-pull** through pull end, so early prepot usage is captured.
+- Dashed marker in SVG: **-35s legacy prepot reference** (for comparison).
 
 Legend:
 - **Blue triangle** = GAPP
@@ -16,6 +17,7 @@ Legend:
 - Relative window: **-01:00.00 -> 01:49.62**
 - Players shown: **40**
 - GAPP uses in window: **22** | MRP uses in window: **34**
+- Captured in extended segment (**-60s to -35s**): GAPP **0** | MRP **4**
 
 ![Resistance Potion Timeline Pull 1](./anomalus_resistance_potion_timeline_pull1.svg)
 
@@ -68,6 +70,7 @@ Legend:
 - Relative window: **-01:00.00 -> 01:53.44**
 - Players shown: **40**
 - GAPP uses in window: **25** | MRP uses in window: **36**
+- Captured in extended segment (**-60s to -35s**): GAPP **1** | MRP **0**
 
 ![Resistance Potion Timeline Pull 2](./anomalus_resistance_potion_timeline_pull2.svg)
 
@@ -120,6 +123,7 @@ Legend:
 - Relative window: **-01:00.00 -> 01:59.12**
 - Players shown: **40**
 - GAPP uses in window: **30** | MRP uses in window: **35**
+- Captured in extended segment (**-60s to -35s**): GAPP **0** | MRP **12**
 
 ![Resistance Potion Timeline Pull 3](./anomalus_resistance_potion_timeline_pull3.svg)
 
