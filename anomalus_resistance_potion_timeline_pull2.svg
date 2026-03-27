@@ -11,246 +11,253 @@
 <rect x="0" y="0" width="1900" height="1144" fill="#f3f4f6"/>
 <rect x="0" y="0" width="1900" height="98" fill="url(#g)"/>
 <text x="24" y="42" class="title">Resistance Potion Timeline - Pull 2 (Wipe)</text>
-<text x="24" y="64" class="sub">Window: 20:47:20.958 to 20:49:49.399 (includes -35s pre-pull)</text>
-<text x="24" y="84" class="sub">Players: 40 | GAPP uses: 24 | MRP uses: 36</text>
+<text x="24" y="64" class="sub">Window: 20:46:55.958 to 20:49:49.399 (includes -60s pre-pull)</text>
+<text x="24" y="84" class="sub">Players: 40 | GAPP uses: 25 | MRP uses: 36</text>
 <polygon points="24,122 34,110 44,122" fill="#2563eb"/>
 <text x="50" y="121" class="legend">Greater Arcane Protection Potion</text>
 <rect x="324" y="111" width="12" height="12" fill="#7c3aed"/>
 <text x="342" y="121" class="legend">Magic Resistance Potion</text>
 <line x1="264.0" y1="140" x2="264.0" y2="1090" stroke="#e5e7eb"/>
-<text x="250.0" y="136" class="axis">-35s</text>
-<line x1="363.2" y1="140" x2="363.2" y2="1090" stroke="#e5e7eb"/>
-<text x="349.2" y="136" class="axis">-25s</text>
-<line x1="462.3" y1="140" x2="462.3" y2="1090" stroke="#e5e7eb"/>
-<text x="448.3" y="136" class="axis">-15s</text>
-<line x1="561.5" y1="140" x2="561.5" y2="1090" stroke="#e5e7eb"/>
-<text x="547.5" y="136" class="axis">-5s</text>
-<line x1="660.7" y1="140" x2="660.7" y2="1090" stroke="#e5e7eb"/>
-<text x="646.7" y="136" class="axis">5s</text>
-<line x1="759.8" y1="140" x2="759.8" y2="1090" stroke="#e5e7eb"/>
-<text x="745.8" y="136" class="axis">15s</text>
-<line x1="859.0" y1="140" x2="859.0" y2="1090" stroke="#e5e7eb"/>
-<text x="845.0" y="136" class="axis">25s</text>
-<line x1="958.1" y1="140" x2="958.1" y2="1090" stroke="#e5e7eb"/>
-<text x="944.1" y="136" class="axis">35s</text>
-<line x1="1057.3" y1="140" x2="1057.3" y2="1090" stroke="#e5e7eb"/>
-<text x="1043.3" y="136" class="axis">45s</text>
-<line x1="1156.5" y1="140" x2="1156.5" y2="1090" stroke="#e5e7eb"/>
-<text x="1142.5" y="136" class="axis">55s</text>
-<line x1="1255.6" y1="140" x2="1255.6" y2="1090" stroke="#e5e7eb"/>
-<text x="1241.6" y="136" class="axis">65s</text>
-<line x1="1354.8" y1="140" x2="1354.8" y2="1090" stroke="#e5e7eb"/>
-<text x="1340.8" y="136" class="axis">75s</text>
-<line x1="1454.0" y1="140" x2="1454.0" y2="1090" stroke="#e5e7eb"/>
-<text x="1440.0" y="136" class="axis">85s</text>
-<line x1="1553.1" y1="140" x2="1553.1" y2="1090" stroke="#e5e7eb"/>
-<text x="1539.1" y="136" class="axis">95s</text>
-<line x1="1652.3" y1="140" x2="1652.3" y2="1090" stroke="#e5e7eb"/>
-<text x="1638.3" y="136" class="axis">105s</text>
+<text x="248.0" y="136" class="axis">-60s</text>
+<line x1="348.9" y1="140" x2="348.9" y2="1090" stroke="#e5e7eb"/>
+<text x="332.9" y="136" class="axis">-50s</text>
+<line x1="433.7" y1="140" x2="433.7" y2="1090" stroke="#e5e7eb"/>
+<text x="417.7" y="136" class="axis">-40s</text>
+<line x1="518.6" y1="140" x2="518.6" y2="1090" stroke="#e5e7eb"/>
+<text x="502.6" y="136" class="axis">-30s</text>
+<line x1="603.5" y1="140" x2="603.5" y2="1090" stroke="#e5e7eb"/>
+<text x="587.5" y="136" class="axis">-20s</text>
+<line x1="688.4" y1="140" x2="688.4" y2="1090" stroke="#e5e7eb"/>
+<text x="672.4" y="136" class="axis">-10s</text>
+<line x1="773.2" y1="140" x2="773.2" y2="1090" stroke="#e5e7eb"/>
+<text x="757.2" y="136" class="axis">0s</text>
+<line x1="858.1" y1="140" x2="858.1" y2="1090" stroke="#e5e7eb"/>
+<text x="842.1" y="136" class="axis">10s</text>
+<line x1="943.0" y1="140" x2="943.0" y2="1090" stroke="#e5e7eb"/>
+<text x="927.0" y="136" class="axis">20s</text>
+<line x1="1027.8" y1="140" x2="1027.8" y2="1090" stroke="#e5e7eb"/>
+<text x="1011.8" y="136" class="axis">30s</text>
+<line x1="1112.7" y1="140" x2="1112.7" y2="1090" stroke="#e5e7eb"/>
+<text x="1096.7" y="136" class="axis">40s</text>
+<line x1="1197.6" y1="140" x2="1197.6" y2="1090" stroke="#e5e7eb"/>
+<text x="1181.6" y="136" class="axis">50s</text>
+<line x1="1282.4" y1="140" x2="1282.4" y2="1090" stroke="#e5e7eb"/>
+<text x="1266.4" y="136" class="axis">60s</text>
+<line x1="1367.3" y1="140" x2="1367.3" y2="1090" stroke="#e5e7eb"/>
+<text x="1351.3" y="136" class="axis">70s</text>
+<line x1="1452.2" y1="140" x2="1452.2" y2="1090" stroke="#e5e7eb"/>
+<text x="1436.2" y="136" class="axis">80s</text>
+<line x1="1537.1" y1="140" x2="1537.1" y2="1090" stroke="#e5e7eb"/>
+<text x="1521.1" y="136" class="axis">90s</text>
+<line x1="1621.9" y1="140" x2="1621.9" y2="1090" stroke="#e5e7eb"/>
+<text x="1605.9" y="136" class="axis">100s</text>
+<line x1="1706.8" y1="140" x2="1706.8" y2="1090" stroke="#e5e7eb"/>
+<text x="1690.8" y="136" class="axis">110s</text>
 <line x1="1736.0" y1="140" x2="1736.0" y2="1090" stroke="#e5e7eb"/>
 <text x="1722.0" y="136" class="axis">113s</text>
-<line x1="611.1" y1="140" x2="611.1" y2="1090" stroke="#374151" stroke-dasharray="4 3"/>
-<text x="615.1" y="136" class="axis">pull start</text>
+<line x1="773.2" y1="140" x2="773.2" y2="1090" stroke="#374151" stroke-dasharray="4 3"/>
+<text x="777.2" y="136" class="axis">pull start</text>
 <rect x="24" y="130" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="144" class="name">Adalette</text>
 <line x1="264" y1="147" x2="1736" y2="147" stroke="#d1d5db"/>
-<polygon points="1517.4,153 1522.4,143 1527.4,153" fill="#2563eb"/>
-<rect x="296.2" y="142" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="144" class="count">G:1 M:1</text>
+<polygon points="1548.2,153 1553.2,143 1558.2,153" fill="#2563eb"/>
+<rect x="503.2" y="142" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="144" class="count">G:1 M:1 </text>
 <text x="24" y="168" class="name">Aerodian</text>
 <line x1="264" y1="171" x2="1736" y2="171" stroke="#d1d5db"/>
-<text x="1746" y="168" class="count">G:0 M:0</text>
+<text x="1746" y="168" class="count">G:0 M:0 </text>
 <rect x="24" y="178" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="192" class="name">Ambitious</text>
 <line x1="264" y1="195" x2="1736" y2="195" stroke="#d1d5db"/>
-<rect x="322.5" y="190" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="192" class="count">G:0 M:1</text>
+<rect x="525.7" y="190" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="192" class="count">G:0 M:1 </text>
 <text x="24" y="216" class="name">Amends</text>
 <line x1="264" y1="219" x2="1736" y2="219" stroke="#d1d5db"/>
-<rect x="295.5" y="214" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="216" class="count">G:0 M:1</text>
+<rect x="502.5" y="214" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="216" class="count">G:0 M:1 </text>
 <rect x="24" y="226" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="240" class="name">Axememore</text>
 <line x1="264" y1="243" x2="1736" y2="243" stroke="#d1d5db"/>
-<polygon points="1486.7,249 1491.7,239 1496.7,249" fill="#2563eb"/>
-<rect x="287.7" y="238" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="240" class="count">G:1 M:1</text>
+<polygon points="1521.9,249 1526.9,239 1531.9,249" fill="#2563eb"/>
+<rect x="495.9" y="238" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="240" class="count">G:1 M:1 </text>
 <text x="24" y="264" class="name">Caub</text>
 <line x1="264" y1="267" x2="1736" y2="267" stroke="#d1d5db"/>
-<text x="1746" y="264" class="count">G:0 M:0</text>
+<text x="1746" y="264" class="count">G:0 M:0 </text>
 <rect x="24" y="274" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="288" class="name">Cinos</text>
 <line x1="264" y1="291" x2="1736" y2="291" stroke="#d1d5db"/>
-<polygon points="1517.0,297 1522.0,287 1527.0,297" fill="#2563eb"/>
-<rect x="286.6" y="286" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="288" class="count">G:1 M:1</text>
+<polygon points="1547.8,297 1552.8,287 1557.8,297" fill="#2563eb"/>
+<rect x="495.0" y="286" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="288" class="count">G:1 M:1 </text>
 <text x="24" y="312" class="name">Coincidence</text>
 <line x1="264" y1="315" x2="1736" y2="315" stroke="#d1d5db"/>
-<text x="1746" y="312" class="count">G:0 M:0</text>
+<text x="1746" y="312" class="count">G:0 M:0 </text>
 <rect x="24" y="322" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="336" class="name">Dokuku</text>
 <line x1="264" y1="339" x2="1736" y2="339" stroke="#d1d5db"/>
-<rect x="292.6" y="334" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="336" class="count">G:0 M:1</text>
+<rect x="500.1" y="334" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="336" class="count">G:0 M:1 </text>
 <text x="24" y="360" class="name">Druidcyy</text>
 <line x1="264" y1="363" x2="1736" y2="363" stroke="#d1d5db"/>
-<polygon points="1530.5,369 1535.5,359 1540.5,369" fill="#2563eb"/>
-<rect x="292.2" y="358" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="360" class="count">G:1 M:1</text>
+<polygon points="1559.4,369 1564.4,359 1569.4,369" fill="#2563eb"/>
+<rect x="499.7" y="358" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="360" class="count">G:1 M:1 </text>
 <rect x="24" y="370" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="384" class="name">Ekureru</text>
 <line x1="264" y1="387" x2="1736" y2="387" stroke="#d1d5db"/>
-<rect x="322.0" y="382" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="384" class="count">G:0 M:1</text>
+<rect x="525.3" y="382" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="384" class="count">G:0 M:1 </text>
 <text x="24" y="408" class="name">Girthbone</text>
 <line x1="264" y1="411" x2="1736" y2="411" stroke="#d1d5db"/>
-<polygon points="1505.7,417 1510.7,407 1515.7,417" fill="#2563eb"/>
-<rect x="303.3" y="406" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="408" class="count">G:1 M:1</text>
+<polygon points="1538.2,417 1543.2,407 1548.2,417" fill="#2563eb"/>
+<rect x="509.2" y="406" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="408" class="count">G:1 M:1 </text>
 <rect x="24" y="418" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="432" class="name">Gladriel</text>
 <line x1="264" y1="435" x2="1736" y2="435" stroke="#d1d5db"/>
-<rect x="295.4" y="430" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="432" class="count">G:0 M:1</text>
+<rect x="502.5" y="430" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="432" class="count">G:0 M:1 </text>
 <text x="24" y="456" class="name">Gustovich</text>
 <line x1="264" y1="459" x2="1736" y2="459" stroke="#d1d5db"/>
-<rect x="298.1" y="454" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="456" class="count">G:0 M:1</text>
+<rect x="504.8" y="454" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="456" class="count">G:0 M:1 </text>
 <rect x="24" y="466" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="480" class="name">Ichabaddie</text>
 <line x1="264" y1="483" x2="1736" y2="483" stroke="#d1d5db"/>
-<rect x="290.0" y="478" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="480" class="count">G:0 M:1</text>
+<rect x="497.8" y="478" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="480" class="count">G:0 M:1 </text>
 <text x="24" y="504" class="name">Iriale</text>
 <line x1="264" y1="507" x2="1736" y2="507" stroke="#d1d5db"/>
-<polygon points="1508.6,513 1513.6,503 1518.6,513" fill="#2563eb"/>
-<rect x="284.8" y="502" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="504" class="count">G:1 M:1</text>
+<polygon points="1540.7,513 1545.7,503 1550.7,513" fill="#2563eb"/>
+<rect x="493.4" y="502" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="504" class="count">G:1 M:1 </text>
 <rect x="24" y="514" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="528" class="name">Jorailin</text>
 <line x1="264" y1="531" x2="1736" y2="531" stroke="#d1d5db"/>
-<polygon points="1505.2,537 1510.2,527 1515.2,537" fill="#2563eb"/>
-<rect x="292.2" y="526" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="528" class="count">G:1 M:1</text>
+<polygon points="1537.7,537 1542.7,527 1547.7,537" fill="#2563eb"/>
+<rect x="499.7" y="526" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="528" class="count">G:1 M:1 </text>
 <text x="24" y="552" class="name">Junoxz</text>
 <line x1="264" y1="555" x2="1736" y2="555" stroke="#d1d5db"/>
-<polygon points="1498.7,561 1503.7,551 1508.7,561" fill="#2563eb"/>
-<rect x="293.3" y="550" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="552" class="count">G:1 M:1</text>
+<polygon points="1532.1,561 1537.1,551 1542.1,561" fill="#2563eb"/>
+<rect x="500.7" y="550" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="552" class="count">G:1 M:1 </text>
 <rect x="24" y="562" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="576" class="name">Koukenbol</text>
 <line x1="264" y1="579" x2="1736" y2="579" stroke="#d1d5db"/>
-<polygon points="1511.6,585 1516.6,575 1521.6,585" fill="#2563eb"/>
-<rect x="294.0" y="574" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="576" class="count">G:1 M:1</text>
+<polygon points="1543.2,585 1548.2,575 1553.2,585" fill="#2563eb"/>
+<rect x="501.3" y="574" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="576" class="count">G:1 M:1 </text>
 <text x="24" y="600" class="name">Lafi</text>
 <line x1="264" y1="603" x2="1736" y2="603" stroke="#d1d5db"/>
-<polygon points="1532.8,609 1537.8,599 1542.8,609" fill="#2563eb"/>
-<rect x="329.1" y="598" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="600" class="count">G:1 M:1</text>
+<polygon points="1561.3,609 1566.3,599 1571.3,609" fill="#2563eb"/>
+<rect x="531.3" y="598" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="600" class="count">G:1 M:1 </text>
 <rect x="24" y="610" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="624" class="name">Lezner</text>
 <line x1="264" y1="627" x2="1736" y2="627" stroke="#d1d5db"/>
-<polygon points="1518.1,633 1523.1,623 1528.1,633" fill="#2563eb"/>
-<rect x="295.4" y="622" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="624" class="count">G:1 M:1</text>
+<polygon points="1548.8,633 1553.8,623 1558.8,633" fill="#2563eb"/>
+<rect x="502.5" y="622" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="624" class="count">G:1 M:1 </text>
 <text x="24" y="648" class="name">Lochien</text>
 <line x1="264" y1="651" x2="1736" y2="651" stroke="#d1d5db"/>
-<polygon points="1530.5,657 1535.5,647 1540.5,657" fill="#2563eb"/>
-<rect x="304.7" y="646" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="648" class="count">G:1 M:1</text>
+<polygon points="1559.4,657 1564.4,647 1569.4,657" fill="#2563eb"/>
+<rect x="510.5" y="646" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="648" class="count">G:1 M:1 </text>
 <rect x="24" y="658" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="672" class="name">Lopp</text>
 <line x1="264" y1="675" x2="1736" y2="675" stroke="#d1d5db"/>
-<polygon points="1664.4,681 1669.4,671 1674.4,681" fill="#2563eb"/>
-<rect x="317.2" y="670" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="672" class="count">G:1 M:1</text>
+<polygon points="1674.0,681 1679.0,671 1684.0,681" fill="#2563eb"/>
+<rect x="521.1" y="670" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="672" class="count">G:1 M:1 </text>
 <text x="24" y="696" class="name">Makende</text>
 <line x1="264" y1="699" x2="1736" y2="699" stroke="#d1d5db"/>
-<polygon points="1530.9,705 1535.9,695 1540.9,705" fill="#2563eb"/>
-<rect x="299.5" y="694" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="696" class="count">G:1 M:1</text>
+<polygon points="1559.7,705 1564.7,695 1569.7,705" fill="#2563eb"/>
+<rect x="506.0" y="694" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="696" class="count">G:1 M:1 </text>
 <rect x="24" y="706" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="720" class="name">Mazgro</text>
 <line x1="264" y1="723" x2="1736" y2="723" stroke="#d1d5db"/>
-<rect x="287.7" y="718" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="720" class="count">G:0 M:1</text>
+<rect x="495.9" y="718" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="720" class="count">G:0 M:1 </text>
 <text x="24" y="744" class="name">Meatmuncher</text>
 <line x1="264" y1="747" x2="1736" y2="747" stroke="#d1d5db"/>
-<rect x="289.6" y="742" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="744" class="count">G:0 M:1</text>
+<rect x="497.5" y="742" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="744" class="count">G:0 M:1 </text>
 <rect x="24" y="754" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="768" class="name">Midnas</text>
 <line x1="264" y1="771" x2="1736" y2="771" stroke="#d1d5db"/>
-<polygon points="1488.3,777 1493.3,767 1498.3,777" fill="#2563eb"/>
-<rect x="287.7" y="766" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="768" class="count">G:1 M:1</text>
+<polygon points="1523.3,777 1528.3,767 1533.3,777" fill="#2563eb"/>
+<rect x="495.9" y="766" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="768" class="count">G:1 M:1 </text>
 <text x="24" y="792" class="name">Mynie</text>
 <line x1="264" y1="795" x2="1736" y2="795" stroke="#d1d5db"/>
-<polygon points="1520.7,801 1525.7,791 1530.7,801" fill="#2563eb"/>
-<rect x="287.4" y="790" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="792" class="count">G:1 M:1</text>
+<polygon points="1551.0,801 1556.0,791 1561.0,801" fill="#2563eb"/>
+<rect x="495.6" y="790" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="792" class="count">G:1 M:1 </text>
 <rect x="24" y="802" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="816" class="name">Naturetouch</text>
 <line x1="264" y1="819" x2="1736" y2="819" stroke="#d1d5db"/>
-<polygon points="1500.6,825 1505.6,815 1510.6,825" fill="#2563eb"/>
-<rect x="299.3" y="814" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="816" class="count">G:1 M:1</text>
+<polygon points="1533.8,825 1538.8,815 1543.8,825" fill="#2563eb"/>
+<rect x="505.8" y="814" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="816" class="count">G:1 M:1 </text>
 <text x="24" y="840" class="name">Nawern</text>
 <line x1="264" y1="843" x2="1736" y2="843" stroke="#d1d5db"/>
-<polygon points="1495.1,849 1500.1,839 1505.1,849" fill="#2563eb"/>
-<rect x="288.1" y="838" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="840" class="count">G:1 M:1</text>
+<polygon points="1529.1,849 1534.1,839 1539.1,849" fill="#2563eb"/>
+<rect x="496.2" y="838" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="840" class="count">G:1 M:1 </text>
 <rect x="24" y="850" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="864" class="name">Obanion</text>
 <line x1="264" y1="867" x2="1736" y2="867" stroke="#d1d5db"/>
-<rect x="296.2" y="862" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="864" class="count">G:0 M:1</text>
+<rect x="503.2" y="862" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="864" class="count">G:0 M:1 </text>
 <text x="24" y="888" class="name">Rokomito</text>
 <line x1="264" y1="891" x2="1736" y2="891" stroke="#d1d5db"/>
-<polygon points="1493.2,897 1498.2,887 1503.2,897" fill="#2563eb"/>
-<rect x="283.2" y="886" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="888" class="count">G:1 M:1</text>
+<polygon points="1527.5,897 1532.5,887 1537.5,897" fill="#2563eb"/>
+<rect x="492.1" y="886" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="888" class="count">G:1 M:1 </text>
 <rect x="24" y="898" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="912" class="name">Sarys</text>
 <line x1="264" y1="915" x2="1736" y2="915" stroke="#d1d5db"/>
-<rect x="318.3" y="910" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="912" class="count">G:0 M:1</text>
+<rect x="522.1" y="910" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="912" class="count">G:0 M:1 </text>
 <text x="24" y="936" class="name">Shangcheeze</text>
 <line x1="264" y1="939" x2="1736" y2="939" stroke="#d1d5db"/>
-<text x="1746" y="936" class="count">G:0 M:0</text>
+<text x="1746" y="936" class="count">G:0 M:0 </text>
 <rect x="24" y="946" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="960" class="name">Snackermz</text>
 <line x1="264" y1="963" x2="1736" y2="963" stroke="#d1d5db"/>
-<polygon points="1545.8,969 1550.8,959 1555.8,969" fill="#2563eb"/>
-<rect x="288.1" y="958" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="960" class="count">G:1 M:1</text>
+<polygon points="1572.5,969 1577.5,959 1582.5,969" fill="#2563eb"/>
+<rect x="496.2" y="958" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="960" class="count">G:1 M:1 </text>
 <text x="24" y="984" class="name">Stormstiker</text>
 <line x1="264" y1="987" x2="1736" y2="987" stroke="#d1d5db"/>
-<polygon points="1640.4,993 1645.4,983 1650.4,993" fill="#2563eb"/>
-<rect x="412.9" y="982" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="984" class="count">G:1 M:1</text>
+<polygon points="1653.4,993 1658.4,983 1663.4,993" fill="#2563eb"/>
+<rect x="603.0" y="982" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="984" class="count">G:1 M:1 </text>
 <rect x="24" y="994" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="1008" class="name">Topsoon</text>
 <line x1="264" y1="1011" x2="1736" y2="1011" stroke="#d1d5db"/>
-<rect x="1504.7" y="1006" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="1008" class="count">G:0 M:1</text>
+<polygon points="442.7,1017 447.7,1007 452.7,1017" fill="#2563eb"/>
+<rect x="1537.5" y="1006" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="1008" class="count">G:1 M:1 </text>
 <text x="24" y="1032" class="name">Totemhero</text>
 <line x1="264" y1="1035" x2="1736" y2="1035" stroke="#d1d5db"/>
-<polygon points="1577.3,1041 1582.3,1031 1587.3,1041" fill="#2563eb"/>
-<rect x="288.9" y="1030" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="1032" class="count">G:1 M:1</text>
+<polygon points="1599.5,1041 1604.5,1031 1609.5,1041" fill="#2563eb"/>
+<rect x="496.9" y="1030" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="1032" class="count">G:1 M:1 </text>
 <rect x="24" y="1042" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
 <text x="24" y="1056" class="name">Voster</text>
 <line x1="264" y1="1059" x2="1736" y2="1059" stroke="#d1d5db"/>
-<polygon points="1548.2,1065 1553.2,1055 1558.2,1065" fill="#2563eb"/>
-<rect x="341.1" y="1054" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="1056" class="count">G:1 M:1</text>
+<polygon points="1574.5,1065 1579.5,1055 1584.5,1065" fill="#2563eb"/>
+<rect x="541.6" y="1054" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="1056" class="count">G:1 M:1 </text>
 <text x="24" y="1080" class="name">Zancoo</text>
 <line x1="264" y1="1083" x2="1736" y2="1083" stroke="#d1d5db"/>
-<polygon points="1529.8,1089 1534.8,1079 1539.8,1089" fill="#2563eb"/>
-<rect x="308.4" y="1078" width="8" height="8" fill="#7c3aed"/>
-<text x="1746" y="1080" class="count">G:1 M:1</text>
-<text x="264" y="1136" class="axis">-35s pre-pull</text>
+<polygon points="1558.8,1089 1563.8,1079 1568.8,1089" fill="#2563eb"/>
+<rect x="513.6" y="1078" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="1080" class="count">G:1 M:1 </text>
+<text x="264" y="1136" class="axis">-60s pre-pull</text>
 <text x="1616" y="1136" class="axis">pull end</text>
 </svg>

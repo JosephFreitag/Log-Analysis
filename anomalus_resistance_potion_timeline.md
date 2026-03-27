@@ -1,10 +1,10 @@
-# Resistance Potion Usage Timelines (Per Pull + 35s Prepull Window)
+# Resistance Potion Usage Timelines (Per Pull + 60s Prepull Window)
 
 Tracked consumables:
 - **Magic Resistance Potion** (MRP)
 - **Greater Arcane Protection Potion** (GAPP)
 
-Each pull chart includes events from **-35s pre-pull** through pull end, so prepot MRP usage is captured.
+Each pull chart includes events from **-60s pre-pull** through pull end, so early prepot usage is captured.
 
 Legend:
 - **Blue triangle** = GAPP
@@ -12,10 +12,10 @@ Legend:
 
 ## Pull 1 (Wipe)
 
-- Timeline window: **20:40:05.838 -> 20:42:30.461**
-- Relative window: **-00:35.00 -> 01:49.62**
+- Timeline window: **20:39:40.838 -> 20:42:30.461**
+- Relative window: **-01:00.00 -> 01:49.62**
 - Players shown: **40**
-- GAPP uses in window: **22** | MRP uses in window: **30**
+- GAPP uses in window: **22** | MRP uses in window: **34**
 
 ![Resistance Potion Timeline Pull 1](./anomalus_resistance_potion_timeline_pull1.svg)
 
@@ -32,23 +32,23 @@ Legend:
 | Dokuku | 0 | 1 | - | -00:34.38 |
 | Druidcyy | 1 | 1 | 01:37.80 | -00:34.49 |
 | Ekureru | 0 | 1 | - | -00:34.42 |
-| Girthbone | 1 | 0 | 01:36.77 | - |
+| Girthbone | 1 | 1 | 01:36.77 | -00:35.01 |
 | Gladriel | 1 | 1 | 01:45.92 | -00:34.38 |
 | Gustovich | 0 | 1 | - | -00:33.69 |
 | Ichabaddie | 0 | 1 | - | -00:20.05 |
-| Iriale | 1 | 0 | 01:26.30 | - |
+| Iriale | 1 | 1 | 01:26.30 | -00:35.05 |
 | Jorailin | 0 | 1 | - | -00:33.47 |
 | Junoxz | 1 | 1 | 01:32.80 | -00:34.87 |
 | Koukenbol | 1 | 1 | 01:37.76 | -00:33.98 |
 | Lafi | 1 | 1 | 01:25.94 | -00:34.42 |
 | Lezner | 1 | 1 | 01:27.86 | -00:34.42 |
 | Lochien | 0 | 1 | - | -00:34.91 |
-| Lopp | 0 | 0 | - | - |
+| Lopp | 0 | 1 | - | -00:35.12 |
 | Makende | 1 | 1 | 01:40.92 | -00:34.60 |
 | Mazgro | 1 | 1 | 01:26.81 | -00:34.91 |
 | Meatmuncher | 1 | 1 | 01:36.44 | -00:34.91 |
 | Midnas | 1 | 1 | 01:36.77 | -00:34.60 |
-| Mynie | 1 | 0 | 01:37.65 | - |
+| Mynie | 1 | 1 | 01:37.65 | -00:35.38 |
 | Naturetouch | 1 | 1 | 01:43.81 | -00:34.49 |
 | Nawern | 1 | 1 | 01:37.88 | -00:34.87 |
 | Obanion | 0 | 0 | - | - |
@@ -64,10 +64,10 @@ Legend:
 
 ## Pull 2 (Wipe)
 
-- Timeline window: **20:47:20.958 -> 20:49:49.399**
-- Relative window: **-00:35.00 -> 01:53.44**
+- Timeline window: **20:46:55.958 -> 20:49:49.399**
+- Relative window: **-01:00.00 -> 01:53.44**
 - Players shown: **40**
-- GAPP uses in window: **24** | MRP uses in window: **36**
+- GAPP uses in window: **25** | MRP uses in window: **36**
 
 ![Resistance Potion Timeline Pull 2](./anomalus_resistance_potion_timeline_pull2.svg)
 
@@ -109,17 +109,17 @@ Legend:
 | Shangcheeze | 0 | 0 | - | - |
 | Snackermz | 1 | 1 | 01:34.76 | -00:32.17 |
 | Stormstiker | 1 | 1 | 01:44.30 | -00:19.59 |
-| Topsoon | 0 | 1 | - | 01:30.52 |
+| Topsoon | 1 | 1 | -00:38.35 | 01:30.52 |
 | Totemhero | 1 | 1 | 01:37.95 | -00:32.09 |
 | Voster | 1 | 1 | 01:35.00 | -00:26.82 |
 | Zancoo | 1 | 1 | 01:33.15 | -00:30.12 |
 
 ## Pull 3 (Kill)
 
-- Timeline window: **20:55:54.361 -> 20:58:28.485**
-- Relative window: **-00:35.00 -> 01:59.12**
+- Timeline window: **20:55:29.361 -> 20:58:28.485**
+- Relative window: **-01:00.00 -> 01:59.12**
 - Players shown: **40**
-- GAPP uses in window: **30** | MRP uses in window: **23**
+- GAPP uses in window: **30** | MRP uses in window: **35**
 
 ![Resistance Potion Timeline Pull 3](./anomalus_resistance_potion_timeline_pull3.svg)
 
@@ -131,38 +131,38 @@ Legend:
 | Amends | 0 | 1 | - | -00:32.43 |
 | Axememore | 0 | 1 | - | -00:34.45 |
 | Caub | 0 | 0 | - | - |
-| Cinos | 1 | 0 | 01:30.83 | - |
+| Cinos | 1 | 1 | 01:30.83 | -00:35.67 |
 | Coincidence | 1 | 0 | 01:25.02 | - |
-| Dokuku | 1 | 0 | 01:40.23 | - |
+| Dokuku | 1 | 1 | 01:40.23 | -00:35.63 |
 | Druidcyy | 1 | 1 | 01:27.42 | -00:34.45 |
 | Ekureru | 0 | 1 | - | -00:32.98 |
 | Girthbone | 1 | 1 | 01:29.83 | -00:33.87 |
-| Gladriel | 1 | 0 | 01:31.13 | - |
+| Gladriel | 1 | 1 | 01:31.13 | -00:35.07 |
 | Gustovich | 1 | 1 | 01:26.11 | -00:34.74 |
 | Ichabaddie | 1 | 1 | 01:32.07 | -00:32.48 |
 | Iriale | 1 | 1 | 01:26.28 | -00:34.88 |
 | Jorailin | 1 | 1 | 01:27.75 | -00:34.07 |
-| Junoxz | 1 | 0 | 01:26.34 | - |
-| Koukenbol | 1 | 0 | 01:26.45 | - |
+| Junoxz | 1 | 1 | 01:26.34 | -00:35.92 |
+| Koukenbol | 1 | 1 | 01:26.45 | -00:35.56 |
 | Lafi | 1 | 1 | 01:53.35 | -00:07.74 |
-| Lezner | 1 | 0 | 01:30.83 | - |
+| Lezner | 1 | 1 | 01:30.83 | -00:35.87 |
 | Lochien | 1 | 1 | 01:36.00 | -00:29.47 |
 | Lopp | 0 | 1 | - | -00:12.51 |
 | Makende | 0 | 1 | - | -00:03.20 |
 | Mazgro | 1 | 1 | 01:30.52 | -00:33.76 |
 | Meatmuncher | 1 | 1 | 01:33.42 | -00:32.57 |
 | Midnas | 1 | 1 | 01:27.08 | -00:33.69 |
-| Mynie | 1 | 0 | 01:25.84 | - |
-| Naturetouch | 1 | 0 | 01:26.40 | - |
+| Mynie | 1 | 1 | 01:25.84 | -00:36.11 |
+| Naturetouch | 1 | 1 | 01:26.40 | -00:35.19 |
 | Nawern | 1 | 1 | 01:28.14 | -00:33.69 |
 | Obanion | 0 | 1 | - | -00:33.73 |
-| Rokomito | 1 | 0 | 01:27.53 | - |
-| Sarys | 0 | 0 | - | - |
+| Rokomito | 1 | 1 | 01:27.53 | -00:36.73 |
+| Sarys | 0 | 1 | - | -00:35.04 |
 | Shangcheeze | 1 | 0 | 01:18.14 | - |
-| Snackermz | 1 | 0 | 01:26.28 | - |
+| Snackermz | 1 | 1 | 01:26.28 | -00:36.51 |
 | Stormstiker | 1 | 1 | 01:30.19 | -00:32.83 |
 | Topsoon | 0 | 1 | - | -00:29.58 |
-| Totemhero | 1 | 0 | 01:25.53 | - |
+| Totemhero | 1 | 1 | 01:25.53 | -00:35.92 |
 | Voster | 1 | 0 | 01:19.21 | - |
 | Zancoo | 1 | 1 | 01:26.28 | -00:34.15 |
 
