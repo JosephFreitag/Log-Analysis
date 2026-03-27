@@ -219,7 +219,7 @@ No player names are used in this section by request.
 **What likely went wrong**
 - The pull had multiple early-detonation cascades, including one chain that started from a non-bomb external spike and another from a very short bomb uptime event.
 - Raid bomb damage volatility was high (from zero-damage clean bombs up to very heavy cluster damage), indicating inconsistent spacing/exits between carriers.
-- Resistance potion profile was weak in this pull window compared to later attempts (MRP coverage effectively absent in-window), reducing margin for Arcane Aura + bomb overlap.
+- Resistance potion timing/coverage was less coordinated than later attempts in this pull window, reducing margin for Arcane Aura + bomb overlap.
 
 **Actionable improvements by role**
 - **Tanks**
