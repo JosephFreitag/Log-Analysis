@@ -5,6 +5,7 @@ This report consolidates all findings across Arcane Aura performance, Arcane Bom
 ## Included Scorecard Graphic
 
 ![Arcane Bomb Player Scorecard](./anomalus_bomb_scorecard.svg)
+![Arcane Bomb Raid-Damage Spike Timeline (Pull 1)](./anomalus_bomb_damage_timeline_pull1.svg)
 
 ## Additional Linked Report
 
@@ -18,6 +19,8 @@ This report consolidates all findings across Arcane Aura performance, Arcane Bom
   [`anomalus_resistance_potion_timeline.md`](./anomalus_resistance_potion_timeline.md)
 - Anonymous Arcane Aura resistance-only scorecard (resist/taken/absorbed totals):
   [`anomalus_pulse_scorecard.md`](./anomalus_pulse_scorecard.md)
+- Arcane Bomb detonation timeline with labeled raid-damage spikes (per pull):
+  [`anomalus_bomb_damage_timeline.md`](./anomalus_bomb_damage_timeline.md)
 
 ---
 

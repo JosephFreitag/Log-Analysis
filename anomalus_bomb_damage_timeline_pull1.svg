@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="760" viewBox="0 0 1900 760">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#1f2937"/></linearGradient></defs>
+<style>
+.title{font:700 28px Arial,sans-serif;fill:#f9fafb;}
+.sub{font:400 13px Arial,sans-serif;fill:#d1d5db;}
+.axis{font:11px Arial,sans-serif;fill:#6b7280;}
+.tick{stroke:#e5e7eb;stroke-width:1;}
+.frame{stroke:#d1d5db;stroke-width:1;fill:#ffffff;}
+.spike{stroke:#dc2626;stroke-width:2;}
+.dot{fill:#dc2626;}
+.lbl{font:11px Arial,sans-serif;fill:#111827;}
+.small{font:10px Arial,sans-serif;fill:#374151;}
+</style>
+<rect x="0" y="0" width="1900" height="760" fill="#f3f4f6"/>
+<rect x="0" y="0" width="1900" height="112" fill="url(#g)"/>
+<text x="24" y="42" class="title">Arcane Bomb Raid-Damage Timeline - Pull 1 (Wipe)</text>
+<text x="24" y="64" class="sub">Each spike = one Arcane Bomb detonation; label = carrier + raid damage taken.</text>
+<text x="24" y="84" class="sub">Detonations: 12 | Total raid bomb dmg: 455,668 | Max spike: 108,804</text>
+<text x="24" y="102" class="sub">Raid damage here is sum of Arcane Bomb hit amounts to players (pets excluded).</text>
+<rect x="100" y="210" width="1730" height="430" class="frame"/>
+<line x1="100.0" y1="210" x2="100.0" y2="640" class="tick"/>
+<text x="90.0" y="658" class="axis">0s</text>
+<line x1="259.6" y1="210" x2="259.6" y2="640" class="tick"/>
+<text x="249.6" y="658" class="axis">10s</text>
+<line x1="419.3" y1="210" x2="419.3" y2="640" class="tick"/>
+<text x="409.3" y="658" class="axis">20s</text>
+<line x1="578.9" y1="210" x2="578.9" y2="640" class="tick"/>
+<text x="568.9" y="658" class="axis">30s</text>
+<line x1="738.6" y1="210" x2="738.6" y2="640" class="tick"/>
+<text x="728.6" y="658" class="axis">40s</text>
+<line x1="898.2" y1="210" x2="898.2" y2="640" class="tick"/>
+<text x="888.2" y="658" class="axis">50s</text>
+<line x1="1057.9" y1="210" x2="1057.9" y2="640" class="tick"/>
+<text x="1047.9" y="658" class="axis">60s</text>
+<line x1="1217.5" y1="210" x2="1217.5" y2="640" class="tick"/>
+<text x="1207.5" y="658" class="axis">70s</text>
+<line x1="1377.2" y1="210" x2="1377.2" y2="640" class="tick"/>
+<text x="1367.2" y="658" class="axis">80s</text>
+<line x1="1536.8" y1="210" x2="1536.8" y2="640" class="tick"/>
+<text x="1526.8" y="658" class="axis">90s</text>
+<line x1="1696.4" y1="210" x2="1696.4" y2="640" class="tick"/>
+<text x="1686.4" y="658" class="axis">100s</text>
+<line x1="1830.0" y1="210" x2="1830.0" y2="640" class="tick"/>
+<line x1="100" y1="640.0" x2="1830" y2="640.0" class="tick"/>
+<text x="28" y="644.0" class="axis">0</text>
+<line x1="100" y1="532.5" x2="1830" y2="532.5" class="tick"/>
+<text x="28" y="536.5" class="axis">27,201</text>
+<line x1="100" y1="425.0" x2="1830" y2="425.0" class="tick"/>
+<text x="28" y="429.0" class="axis">54,402</text>
+<line x1="100" y1="317.5" x2="1830" y2="317.5" class="tick"/>
+<text x="28" y="321.5" class="axis">81,603</text>
+<line x1="100" y1="210.0" x2="1830" y2="210.0" class="tick"/>
+<text x="28" y="214.0" class="axis">108,804</text>
+<text x="925.0" y="728" class="axis">Time since pull start</text>
+<text x="10" y="200" class="axis">Raid damage per bomb</text>
+<line x1="460.6" y1="640" x2="460.6" y2="476.4" class="spike"/>
+<circle cx="460.6" cy="476.4" r="3.5" class="dot"/>
+<line x1="460.6" y1="474.4" x2="460.6" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="466.6" y="131.0" width="113" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="470.6" y="141.0" class="small">Shangcheeze 41.4k</text>
+<line x1="698.6" y1="640" x2="698.6" y2="495.2" class="spike"/>
+<circle cx="698.6" cy="495.2" r="3.5" class="dot"/>
+<line x1="698.6" y1="493.2" x2="698.6" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="704.6" y="131.0" width="101" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="708.6" y="141.0" class="small">Snackermz 36.6k</text>
+<line x1="907.9" y1="640" x2="907.9" y2="496.1" class="spike"/>
+<circle cx="907.9" cy="496.1" r="3.5" class="dot"/>
+<line x1="907.9" y1="494.1" x2="907.9" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="913.9" y="131.0" width="70" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="917.9" y="141.0" class="small">Caub 36.4k</text>
+<line x1="1088.4" y1="640" x2="1088.4" y2="503.2" class="spike"/>
+<circle cx="1088.4" cy="503.2" r="3.5" class="dot"/>
+<line x1="1088.4" y1="501.2" x2="1088.4" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1094.4" y="131.0" width="94" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1098.4" y="141.0" class="small">Rokomito 34.6k</text>
+<line x1="1243.6" y1="640" x2="1243.6" y2="501.6" class="spike"/>
+<circle cx="1243.6" cy="501.6" r="3.5" class="dot"/>
+<line x1="1243.6" y1="499.6" x2="1243.6" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1249.6" y="131.0" width="94" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1253.6" y="141.0" class="small">Gladriel 35.0k</text>
+<line x1="1382.1" y1="640" x2="1382.1" y2="520.5" class="spike"/>
+<circle cx="1382.1" cy="520.5" r="3.5" class="dot"/>
+<line x1="1382.1" y1="518.5" x2="1382.1" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1388.1" y="131.0" width="107" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1392.1" y="141.0" class="small">Ichabaddie 30.2k</text>
+<line x1="1501.1" y1="640" x2="1501.1" y2="495.4" class="spike"/>
+<circle cx="1501.1" cy="495.4" r="3.5" class="dot"/>
+<line x1="1501.1" y1="493.4" x2="1501.1" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1507.1" y="131.0" width="82" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1511.1" y="141.0" class="small">Dokuku 36.6k</text>
+<line x1="1607.2" y1="640" x2="1607.2" y2="479.2" class="spike"/>
+<circle cx="1607.2" cy="479.2" r="3.5" class="dot"/>
+<line x1="1607.2" y1="477.2" x2="1607.2" y2="156.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1613.2" y="145.0" width="94" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1617.2" y="155.0" class="small">Druidcyy 40.7k</text>
+<line x1="1700.0" y1="640" x2="1700.0" y2="533.1" class="spike"/>
+<circle cx="1700.0" cy="533.1" r="3.5" class="dot"/>
+<line x1="1700.0" y1="531.1" x2="1700.0" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1706.0" y="131.0" width="101" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1710.0" y="141.0" class="small">Axememore 27.0k</text>
+<line x1="1779.6" y1="640" x2="1779.6" y2="541.2" class="spike"/>
+<circle cx="1779.6" cy="541.2" r="3.5" class="dot"/>
+<line x1="1779.6" y1="539.2" x2="1779.6" y2="156.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1691.6" y="145.0" width="82" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1695.6" y="155.0" class="small">Mazgro 25.0k</text>
+<line x1="1826.6" y1="640" x2="1826.6" y2="627.2" class="spike"/>
+<circle cx="1826.6" cy="627.2" r="3.5" class="dot"/>
+<line x1="1826.6" y1="625.2" x2="1826.6" y2="142.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1738.6" y="131.0" width="82" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1742.6" y="141.0" class="small">Ekureru 3.2k</text>
+<line x1="1826.6" y1="640" x2="1826.6" y2="210.0" class="spike"/>
+<circle cx="1826.6" cy="210.0" r="3.5" class="dot"/>
+<line x1="1826.6" y1="208.0" x2="1826.6" y2="170.0" stroke="#9ca3af" stroke-width="1"/>
+<rect x="1701.6" y="159.0" width="119" height="13" fill="#fef3c7" stroke="#f59e0b" stroke-width="0.8" rx="2"/>
+<text x="1705.6" y="169.0" class="small">Stormstiker 108.8k</text>
+</svg>
