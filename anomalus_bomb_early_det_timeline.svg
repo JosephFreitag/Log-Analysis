@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="2422" viewBox="0 0 1500 2422">
+<defs><linearGradient id="ghead" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#1f2937"/></linearGradient></defs>
+<style>
+  .title { font: 700 28px Arial, sans-serif; fill: #f9fafb; }
+  .sub { font: 400 13px Arial, sans-serif; fill: #d1d5db; }
+  .pull { font: 700 18px Arial, sans-serif; fill: #111827; }
+  .cardh { font: 700 14px Arial, sans-serif; fill: #111827; }
+  .meta { font: 12px Arial, sans-serif; fill: #4b5563; }
+  .evt { font: 12px "Courier New", monospace; }
+</style>
+<rect x="0" y="0" width="1500" height="2422" fill="#f3f4f6"/>
+<rect x="0" y="0" width="1500" height="88" fill="url(#ghead)"/>
+<text x="24" y="42" class="title">Arcane Bomb Early Detonation Chronology</text>
+<text x="24" y="64" class="sub">Per-pull simple list format · red=negative · green=positive · +/- values</text>
+<text x="24" y="112" class="pull">Pull 1</text>
+<rect x="24" y="124" width="1452" height="256" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="144" class="cardh">Stormstiker (8.895s)</text>
+<text x="244" y="144" class="meta">detonation: 20:42:30.247 · death: 20:42:30.247 · window: -6.000s to 0.000s</text>
+<text x="40" y="164" class="evt" fill="#059669">+    11  [-4.986s]  Heathen's Light (Adalette)</text>
+<text x="40" y="184" class="evt" fill="#dc2626">-   163  [-4.169s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="204" class="evt" fill="#059669">+    11  [-3.980s]  Heathen's Light (Adalette)</text>
+<text x="40" y="224" class="evt" fill="#059669">+    11  [-3.016s]  Heathen's Light (Adalette)</text>
+<text x="40" y="244" class="evt" fill="#dc2626">-  1987  [-2.941s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="264" class="evt" fill="#dc2626">-   325  [-2.193s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="284" class="evt" fill="#059669">+    11  [-1.970s]  Heathen's Light (Adalette)</text>
+<text x="40" y="304" class="evt" fill="#dc2626">-   163  [-0.150s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="324" class="evt" fill="#dc2626">-  3235  [+0.000s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="344" class="evt" fill="#111827">x DEATH (BOMB EXPLODE)  [+0.000s]</text>
+<rect x="24" y="394" width="1452" height="296" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="414" class="cardh">Makende (5.590s)</text>
+<text x="244" y="414" class="meta">detonation: 20:42:36.087 · death: 20:42:36.092 · window: -6.000s to 0.000s</text>
+<text x="40" y="434" class="evt" fill="#dc2626">-   128  [-5.995s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="454" class="evt" fill="#dc2626">-   163  [-5.995s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="474" class="evt" fill="#dc2626">-  1185  [-5.845s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="494" class="evt" fill="#dc2626">-  1128  [-5.845s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="514" class="evt" fill="#dc2626">-  2596  [-5.691s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="534" class="evt" fill="#059669">+  1908  [-5.634s]  Flash of Light critically (Lezner)</text>
+<text x="40" y="554" class="evt" fill="#dc2626">-  1352  [-4.226s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="574" class="evt" fill="#dc2626">-   163  [-4.026s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="594" class="evt" fill="#059669">+   638  [-3.786s]  Daybreak (Lezner)</text>
+<text x="40" y="614" class="evt" fill="#dc2626">-   163  [-2.014s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="634" class="evt" fill="#dc2626">-  1334  [-0.005s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="654" class="evt" fill="#111827">x DEATH (BOMB EXPLODE)  [+0.000s]</text>
+<text x="24" y="728" class="pull">Pull 2</text>
+<rect x="24" y="740" width="1452" height="256" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="760" class="cardh">Druidcyy (10.513s)</text>
+<text x="244" y="760" class="meta">detonation: 20:49:49.156 · death: 20:49:49.344 · window: -6.000s to 0.000s</text>
+<text x="40" y="780" class="evt" fill="#dc2626">-   325  [-5.427s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="800" class="evt" fill="#059669">+   162  [-4.867s]  Judgement of Light (Druidcyy)</text>
+<text x="40" y="820" class="evt" fill="#dc2626">-  1563  [-4.691s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="840" class="evt" fill="#059669">+   162  [-3.963s]  Judgement of Light (Druidcyy)</text>
+<text x="40" y="860" class="evt" fill="#dc2626">-   326  [-3.507s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="880" class="evt" fill="#059669">+   162  [-3.036s]  Judgement of Light (Druidcyy)</text>
+<text x="40" y="900" class="evt" fill="#059669">+   162  [-2.980s]  Judgement of Light (Druidcyy)</text>
+<text x="40" y="920" class="evt" fill="#dc2626">-   326  [-1.467s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="940" class="evt" fill="#dc2626">-  3835  [-0.188s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="960" class="evt" fill="#111827">x DEATH (BOMB EXPLODE)  [+0.000s]</text>
+<rect x="24" y="1010" width="1452" height="216" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="1030" class="cardh">Lopp (5.940s)</text>
+<text x="244" y="1030" class="meta">detonation: 20:49:49.156 · death: 20:49:49.257 · window: -6.000s to 0.000s</text>
+<text x="40" y="1050" class="evt" fill="#dc2626">-     0  [-5.343s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1070" class="evt" fill="#059669">+   140  [-5.006s]  Regrowth (Naturetouch)</text>
+<text x="40" y="1090" class="evt" fill="#dc2626">-     0  [-4.604s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1110" class="evt" fill="#dc2626">-     0  [-3.420s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1130" class="evt" fill="#dc2626">-     0  [-1.380s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1150" class="evt" fill="#dc2626">-  1286  [-0.101s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1170" class="evt" fill="#dc2626">-  5939  [-0.101s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1190" class="evt" fill="#111827">x DEATH (BOMB EXPLODE)  [+0.000s]</text>
+<rect x="24" y="1240" width="1452" height="256" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="1260" class="cardh">Voster (5.960s)</text>
+<text x="244" y="1260" class="meta">detonation: 20:50:07.272 · death: 20:50:07.349 · window: -6.000s to 0.000s</text>
+<text x="40" y="1280" class="evt" fill="#dc2626">-   163  [-5.527s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1300" class="evt" fill="#dc2626">-  1571  [-4.569s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1320" class="evt" fill="#dc2626">-   327  [-3.497s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1340" class="evt" fill="#059669">+   162  [-2.616s]  Judgement of Light (Voster)</text>
+<text x="40" y="1360" class="evt" fill="#059669">+   180  [-2.437s]  Invigorate (Voster)</text>
+<text x="40" y="1380" class="evt" fill="#059669">+   162  [-2.399s]  Judgement of Light (Voster)</text>
+<text x="40" y="1400" class="evt" fill="#dc2626">-   326  [-1.517s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1420" class="evt" fill="#dc2626">-  4484  [-0.077s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1440" class="evt" fill="#059669">+   198  [-0.077s]  Invigorate (Voster)</text>
+<text x="40" y="1460" class="evt" fill="#111827">x DEATH (BOMB EXPLODE)  [+0.000s]</text>
+<rect x="24" y="1510" width="1452" height="236" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="1530" class="cardh">Totemhero (1.582s)</text>
+<text x="244" y="1530" class="meta">detonation: 20:50:11.845 · death: 20:50:11.869 · window: -6.000s to 0.000s</text>
+<text x="40" y="1550" class="evt" fill="#059669">+   187  [-5.585s]  Regrowth (Naturetouch)</text>
+<text x="40" y="1570" class="evt" fill="#dc2626">-  1817  [-4.520s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1590" class="evt" fill="#dc2626">-  1314  [-4.506s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1610" class="evt" fill="#dc2626">-   327  [-4.042s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1630" class="evt" fill="#059669">+   187  [-3.597s]  Regrowth (Naturetouch)</text>
+<text x="40" y="1650" class="evt" fill="#dc2626">-   163  [-2.009s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1670" class="evt" fill="#059669">+   187  [-1.606s]  Regrowth (Naturetouch)</text>
+<text x="40" y="1690" class="evt" fill="#dc2626">-   740  [-0.024s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1710" class="evt" fill="#111827">x DEATH (BOMB EXPLODE)  [+0.000s]</text>
+<rect x="24" y="1760" width="1452" height="236" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="1780" class="cardh">Stormstiker (6.083s)</text>
+<text x="244" y="1780" class="meta">detonation: 20:50:11.845 · death: 20:50:11.845 · window: -6.000s to 0.000s</text>
+<text x="40" y="1800" class="evt" fill="#059669">+   162  [-4.901s]  Judgement of Light (Stormstiker)</text>
+<text x="40" y="1820" class="evt" fill="#dc2626">-  1883  [-4.573s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1840" class="evt" fill="#dc2626">-  1601  [-4.482s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1860" class="evt" fill="#dc2626">-   164  [-4.018s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1880" class="evt" fill="#dc2626">-   163  [-1.985s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="1900" class="evt" fill="#059669">+  1808  [-0.555s]  Lesser Healing Wave (Stormstiker)</text>
+<text x="40" y="1920" class="evt" fill="#dc2626">-  1331  [+0.000s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1940" class="evt" fill="#dc2626">-  1184  [+0.000s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="1960" class="evt" fill="#111827">x DEATH (BOMB EXPLODE)  [+0.000s]</text>
+<text x="24" y="2034" class="pull">Pull 3</text>
+<rect x="24" y="2046" width="1452" height="276" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="2066" class="cardh">Shangcheeze (6.015s)</text>
+<text x="244" y="2066" class="meta">detonation: 20:58:28.362 · death: 20:58:28.434 · window: -6.000s to 0.000s</text>
+<text x="40" y="2086" class="evt" fill="#059669">+   168  [-5.312s]  Judgement of Light (Shangcheeze)</text>
+<text x="40" y="2106" class="evt" fill="#dc2626">-   216  [-5.088s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="2126" class="evt" fill="#059669">+    40  [-4.756s]  Healing Stream (Koukenbol)</text>
+<text x="40" y="2146" class="evt" fill="#dc2626">-  2331  [-4.659s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="2166" class="evt" fill="#059669">+   243  [-3.794s]  Holy Strength (Shangcheeze)</text>
+<text x="40" y="2186" class="evt" fill="#dc2626">-   432  [-3.079s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="2206" class="evt" fill="#059669">+    40  [-2.750s]  Healing Stream (Koukenbol)</text>
+<text x="40" y="2226" class="evt" fill="#dc2626">-   431  [-1.084s]  Arcane Aura (Anomalus)</text>
+<text x="40" y="2246" class="evt" fill="#059669">+    40  [-0.733s]  Healing Stream (Koukenbol)</text>
+<text x="40" y="2266" class="evt" fill="#dc2626">-  2314  [-0.072s]  Arcane Bomb (Anomalus)</text>
+<text x="40" y="2286" class="evt" fill="#111827">x DEATH (BOMB EXPLODE)  [+0.000s]</text>
+</svg>

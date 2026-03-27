@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1080" viewBox="0 0 1500 1080">
+<defs>
+<linearGradient id="ghead" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#1f2937"/>
+</linearGradient>
+</defs>
+<style>
+.title { font: 700 28px Arial, sans-serif; fill: #f9fafb; }
+.sub { font: 400 13px Arial, sans-serif; fill: #d1d5db; }
+.h2 { font: 700 18px Arial, sans-serif; fill: #111827; }
+.th { font: 700 12px Arial, sans-serif; fill: #111827; }
+.td { font: 12px Arial, sans-serif; fill: #111827; }
+.mono { font: 12px "Courier New", monospace; }
+</style>
+<rect x="0" y="0" width="1500" height="1080" fill="#f3f4f6"/>
+<rect x="0" y="0" width="1500" height="96" fill="url(#ghead)"/>
+<text x="24" y="42" class="title">Dual-Hypothesis Wipe Responsibility Scorecard</text>
+<text x="24" y="64" class="sub">Wipe pulls only · A = first bomb too close · B = next bomb pathing too soon/close</text>
+<text x="24" y="82" class="sub">midpoint = confirmed + 0.5*A + 0.5*B</text>
+<text x="24" y="120" class="h2">Score Table</text>
+<rect x="24" y="134" width="1452" height="28" fill="#e5e7eb" stroke="#d1d5db"/>
+<text x="34" y="152" class="th">player</text>
+<text x="254" y="152" class="th">confirmed</text>
+<text x="394" y="152" class="th">scenario_A</text>
+<text x="554" y="152" class="th">scenario_B</text>
+<text x="714" y="152" class="th">midpoint</text>
+<text x="874" y="152" class="th">A bar</text>
+<text x="1154" y="152" class="th">B bar</text>
+<rect x="24" y="162" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="178" class="td">Axememore</text>
+<text x="254" y="178" class="mono">0</text>
+<text x="394" y="178" class="mono" fill="#2563eb">149,577</text>
+<text x="554" y="178" class="mono" fill="#059669">0</text>
+<text x="714" y="178" class="mono">74,788</text>
+<rect x="874" y="168" width="250" height="10" rx="5" fill="#dbeafe"/>
+<rect x="874" y="168" width="250" height="10" rx="5" fill="#2563eb"/>
+<rect x="1154" y="168" width="250" height="10" rx="5" fill="#d1fae5"/>
+<rect x="1154" y="168" width="0" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="186" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="202" class="td">Druidcyy</text>
+<text x="254" y="202" class="mono">0</text>
+<text x="394" y="202" class="mono" fill="#2563eb">0</text>
+<text x="554" y="202" class="mono" fill="#059669">149,577</text>
+<text x="714" y="202" class="mono">74,788</text>
+<rect x="874" y="192" width="250" height="10" rx="5" fill="#dbeafe"/>
+<rect x="874" y="192" width="0" height="10" rx="5" fill="#2563eb"/>
+<rect x="1154" y="192" width="250" height="10" rx="5" fill="#d1fae5"/>
+<rect x="1154" y="192" width="250" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="210" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="226" class="td">Voster</text>
+<text x="254" y="226" class="mono">30,069</text>
+<text x="394" y="226" class="mono" fill="#2563eb">0</text>
+<text x="554" y="226" class="mono" fill="#059669">34,894</text>
+<text x="714" y="226" class="mono">47,516</text>
+<rect x="874" y="216" width="250" height="10" rx="5" fill="#dbeafe"/>
+<rect x="874" y="216" width="0" height="10" rx="5" fill="#2563eb"/>
+<rect x="1154" y="216" width="250" height="10" rx="5" fill="#d1fae5"/>
+<rect x="1154" y="216" width="58" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="234" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="250" class="td">Zancoo</text>
+<text x="254" y="250" class="mono">0</text>
+<text x="394" y="250" class="mono" fill="#2563eb">34,894</text>
+<text x="554" y="250" class="mono" fill="#059669">0</text>
+<text x="714" y="250" class="mono">17,447</text>
+<rect x="874" y="240" width="250" height="10" rx="5" fill="#dbeafe"/>
+<rect x="874" y="240" width="58" height="10" rx="5" fill="#2563eb"/>
+<rect x="1154" y="240" width="250" height="10" rx="5" fill="#d1fae5"/>
+<rect x="1154" y="240" width="0" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="258" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="274" class="td">Rokomito</text>
+<text x="254" y="274" class="mono">0</text>
+<text x="394" y="274" class="mono" fill="#2563eb">14,150</text>
+<text x="554" y="274" class="mono" fill="#059669">0</text>
+<text x="714" y="274" class="mono">7,075</text>
+<rect x="874" y="264" width="250" height="10" rx="5" fill="#dbeafe"/>
+<rect x="874" y="264" width="23" height="10" rx="5" fill="#2563eb"/>
+<rect x="1154" y="264" width="250" height="10" rx="5" fill="#d1fae5"/>
+<rect x="1154" y="264" width="0" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="282" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="298" class="td">Totemhero</text>
+<text x="254" y="298" class="mono">0</text>
+<text x="394" y="298" class="mono" fill="#2563eb">0</text>
+<text x="554" y="298" class="mono" fill="#059669">14,150</text>
+<text x="714" y="298" class="mono">7,075</text>
+<rect x="874" y="288" width="250" height="10" rx="5" fill="#dbeafe"/>
+<rect x="874" y="288" width="0" height="10" rx="5" fill="#2563eb"/>
+<rect x="1154" y="288" width="250" height="10" rx="5" fill="#d1fae5"/>
+<rect x="1154" y="288" width="23" height="10" rx="5" fill="#059669"/>
+<text x="24" y="334" class="h2">Scenario A Ranking (first bomb too close)</text>
+<rect x="24" y="348" width="1452" height="28" fill="#e5e7eb" stroke="#d1d5db"/>
+<text x="34" y="366" class="th">rank</text>
+<text x="114" y="366" class="th">player</text>
+<text x="384" y="366" class="th">A score</text>
+<text x="494" y="366" class="th">relative bar</text>
+<rect x="24" y="376" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="392" class="td">1</text>
+<text x="114" y="392" class="td">Axememore</text>
+<text x="384" y="392" class="mono">149,577</text>
+<rect x="494" y="382" width="900" height="10" rx="5" fill="#dbeafe"/>
+<rect x="494" y="382" width="900" height="10" rx="5" fill="#2563eb"/>
+<rect x="24" y="400" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="416" class="td">2</text>
+<text x="114" y="416" class="td">Zancoo</text>
+<text x="384" y="416" class="mono">34,894</text>
+<rect x="494" y="406" width="900" height="10" rx="5" fill="#dbeafe"/>
+<rect x="494" y="406" width="209" height="10" rx="5" fill="#2563eb"/>
+<rect x="24" y="424" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="440" class="td">3</text>
+<text x="114" y="440" class="td">Rokomito</text>
+<text x="384" y="440" class="mono">14,150</text>
+<rect x="494" y="430" width="900" height="10" rx="5" fill="#dbeafe"/>
+<rect x="494" y="430" width="85" height="10" rx="5" fill="#2563eb"/>
+<rect x="24" y="448" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="464" class="td">4</text>
+<text x="114" y="464" class="td">Druidcyy</text>
+<text x="384" y="464" class="mono">0</text>
+<rect x="494" y="454" width="900" height="10" rx="5" fill="#dbeafe"/>
+<rect x="494" y="454" width="0" height="10" rx="5" fill="#2563eb"/>
+<rect x="24" y="472" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="488" class="td">5</text>
+<text x="114" y="488" class="td">Totemhero</text>
+<text x="384" y="488" class="mono">0</text>
+<rect x="494" y="478" width="900" height="10" rx="5" fill="#dbeafe"/>
+<rect x="494" y="478" width="0" height="10" rx="5" fill="#2563eb"/>
+<rect x="24" y="496" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="512" class="td">6</text>
+<text x="114" y="512" class="td">Voster</text>
+<text x="384" y="512" class="mono">0</text>
+<rect x="494" y="502" width="900" height="10" rx="5" fill="#dbeafe"/>
+<rect x="494" y="502" width="0" height="10" rx="5" fill="#2563eb"/>
+<text x="24" y="548" class="h2">Scenario B Ranking (next bomb pathing too soon/close)</text>
+<rect x="24" y="562" width="1452" height="28" fill="#e5e7eb" stroke="#d1d5db"/>
+<text x="34" y="580" class="th">rank</text>
+<text x="114" y="580" class="th">player</text>
+<text x="384" y="580" class="th">B score</text>
+<text x="494" y="580" class="th">relative bar</text>
+<rect x="24" y="590" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="606" class="td">1</text>
+<text x="114" y="606" class="td">Druidcyy</text>
+<text x="384" y="606" class="mono">149,577</text>
+<rect x="494" y="596" width="900" height="10" rx="5" fill="#d1fae5"/>
+<rect x="494" y="596" width="900" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="614" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="630" class="td">2</text>
+<text x="114" y="630" class="td">Voster</text>
+<text x="384" y="630" class="mono">34,894</text>
+<rect x="494" y="620" width="900" height="10" rx="5" fill="#d1fae5"/>
+<rect x="494" y="620" width="209" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="638" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="654" class="td">3</text>
+<text x="114" y="654" class="td">Totemhero</text>
+<text x="384" y="654" class="mono">14,150</text>
+<rect x="494" y="644" width="900" height="10" rx="5" fill="#d1fae5"/>
+<rect x="494" y="644" width="85" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="662" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="678" class="td">4</text>
+<text x="114" y="678" class="td">Axememore</text>
+<text x="384" y="678" class="mono">0</text>
+<rect x="494" y="668" width="900" height="10" rx="5" fill="#d1fae5"/>
+<rect x="494" y="668" width="0" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="686" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="702" class="td">5</text>
+<text x="114" y="702" class="td">Rokomito</text>
+<text x="384" y="702" class="mono">0</text>
+<rect x="494" y="692" width="900" height="10" rx="5" fill="#d1fae5"/>
+<rect x="494" y="692" width="0" height="10" rx="5" fill="#059669"/>
+<rect x="24" y="710" width="1452" height="24" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="34" y="726" class="td">6</text>
+<text x="114" y="726" class="td">Zancoo</text>
+<text x="384" y="726" class="mono">0</text>
+<rect x="494" y="716" width="900" height="10" rx="5" fill="#d1fae5"/>
+<rect x="494" y="716" width="0" height="10" rx="5" fill="#059669"/>
+</svg>

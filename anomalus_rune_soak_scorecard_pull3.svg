@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1820" height="1010" viewBox="0 0 1820 1010">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#1f2937"/></linearGradient></defs>
+<style>
+.title{font:700 28px Arial,sans-serif;fill:#f9fafb;}
+.sub{font:400 13px Arial,sans-serif;fill:#d1d5db;}
+.name{font:700 14px Arial,sans-serif;fill:#111827;}
+.meta{font:12px Arial,sans-serif;fill:#4b5563;}
+.axis{font:11px Arial,sans-serif;fill:#6b7280;}
+.legend{font:12px Arial,sans-serif;fill:#111827;}
+.mark{font:700 11px Arial,sans-serif;fill:#1d4ed8;}
+.markOff{font:700 11px Arial,sans-serif;fill:#334155;}
+.skull{font:700 14px Arial,sans-serif;fill:#111827;}
+</style>
+<rect x="0" y="0" width="1820" height="1010" fill="#f3f4f6"/>
+<rect x="0" y="0" width="1820" height="98" fill="url(#g)"/>
+<text x="24" y="42" class="title">Rune Soak Damage Scorecard - Pull 3 (Kill)</text>
+<text x="24" y="64" class="sub">Blue=with Dampening | Red=without Dampening | shaded band=active Dampening window | D+/D-=apply/fade | ☠=death</text>
+<text x="24" y="84" class="sub">Pull window: 20:56:29.361 to 20:58:32.084 | max hit in this pull: 7507</text>
+<rect x="24" y="110" width="12" height="12" fill="#2563eb" rx="2"/>
+<text x="42" y="121" class="legend">With debuff</text>
+<rect x="178" y="110" width="12" height="12" fill="#dc2626" rx="2"/>
+<text x="196" y="121" class="legend">Without debuff</text>
+<rect x="378" y="110" width="40" height="12" fill="#bfdbfe" opacity="0.55" rx="2"/>
+<text x="424" y="121" class="legend">Dampening active window</text>
+<text x="644" y="121" class="legend">D+ start | D- fade | ☠ death-on-hit</text>
+<rect x="24" y="146" width="1772" height="124" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="168" class="name">Rokomito</text>
+<text x="193" y="168" class="meta">damp windows=1 | damp n=4 avg=1609.5 max=2504 | no-debuff n=1 max=7507 deaths=1</text>
+<rect x="36" y="180" width="1748" height="74" fill="#f9fafb" stroke="#e5e7eb"/>
+<line x1="36" y1="254" x2="1784" y2="254" stroke="#9ca3af"/>
+<text x="40" y="192" class="axis">7507</text>
+<text x="40" y="252" class="axis">0</text>
+<rect x="347.2" y="180" width="1356.1" height="74" fill="#bfdbfe" opacity="0.55"/>
+<line x1="347.2" y1="180" x2="347.2" y2="254" stroke="#1d4ed8" stroke-dasharray="3 2"/>
+<line x1="1703.3" y1="180" x2="1703.3" y2="254" stroke="#334155" stroke-dasharray="3 2"/>
+<text x="349.2" y="191" class="mark">D+</text>
+<text x="1705.3" y="191" class="markOff">D-</text>
+<rect x="111.5" y="188" width="8" height="66" fill="#dc2626" rx="1"/>
+<text x="109.5" y="191" class="axis">7507</text>
+<text x="110.5" y="192" class="skull">☠</text>
+<rect x="840.3" y="242" width="8" height="12" fill="#2563eb" rx="1"/>
+<text x="838.3" y="240" class="axis">1433</text>
+<rect x="1128.5" y="244" width="8" height="10" fill="#2563eb" rx="1"/>
+<text x="1126.5" y="242" class="axis">1251</text>
+<rect x="1413.7" y="244" width="8" height="10" fill="#2563eb" rx="1"/>
+<text x="1411.7" y="242" class="axis">1250</text>
+<rect x="1700.5" y="232" width="8" height="22" fill="#2563eb" rx="1"/>
+<text x="1698.5" y="230" class="axis">2504</text>
+<text x="36" y="267" class="axis">20:57:49.918</text>
+<text x="1712" y="267" class="axis">20:58:34.125</text>
+<rect x="24" y="284" width="1772" height="124" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="306" class="name">Jorailin</text>
+<text x="193" y="306" class="meta">damp windows=1 | damp n=1 avg=3753.0 max=3753 | no-debuff n=0 max=0 deaths=0</text>
+<rect x="36" y="318" width="1748" height="74" fill="#f9fafb" stroke="#e5e7eb"/>
+<line x1="36" y1="392" x2="1784" y2="392" stroke="#9ca3af"/>
+<text x="40" y="330" class="axis">7507</text>
+<text x="40" y="390" class="axis">0</text>
+<rect x="115.5" y="318" width="1589.1" height="74" fill="#bfdbfe" opacity="0.55"/>
+<line x1="115.5" y1="318" x2="115.5" y2="392" stroke="#1d4ed8" stroke-dasharray="3 2"/>
+<line x1="1704.5" y1="318" x2="1704.5" y2="392" stroke="#334155" stroke-dasharray="3 2"/>
+<text x="117.5" y="329" class="mark">D+</text>
+<text x="1706.5" y="329" class="markOff">D-</text>
+<rect x="1168.5" y="360" width="8" height="32" fill="#2563eb" rx="1"/>
+<text x="1166.5" y="358" class="axis">3753</text>
+<text x="36" y="405" class="axis">20:56:49.714</text>
+<text x="1712" y="405" class="axis">20:57:39.216</text>
+<rect x="24" y="422" width="1772" height="124" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="444" class="name">Caub</text>
+<text x="193" y="444" class="meta">damp windows=1 | damp n=2 avg=1877.5 max=2503 | no-debuff n=0 max=0 deaths=0</text>
+<rect x="36" y="456" width="1748" height="74" fill="#f9fafb" stroke="#e5e7eb"/>
+<line x1="36" y1="530" x2="1784" y2="530" stroke="#9ca3af"/>
+<text x="40" y="468" class="axis">7507</text>
+<text x="40" y="528" class="axis">0</text>
+<rect x="115.5" y="456" width="1589.1" height="74" fill="#bfdbfe" opacity="0.55"/>
+<line x1="115.5" y1="456" x2="115.5" y2="530" stroke="#1d4ed8" stroke-dasharray="3 2"/>
+<line x1="1704.5" y1="456" x2="1704.5" y2="530" stroke="#334155" stroke-dasharray="3 2"/>
+<text x="117.5" y="467" class="mark">D+</text>
+<text x="1706.5" y="467" class="markOff">D-</text>
+<rect x="766.9" y="508" width="8" height="22" fill="#2563eb" rx="1"/>
+<text x="764.9" y="506" class="axis">2503</text>
+<rect x="1239.2" y="519" width="8" height="11" fill="#2563eb" rx="1"/>
+<text x="1237.2" y="517" class="axis">1252</text>
+<text x="36" y="543" class="axis">20:57:17.740</text>
+<text x="1712" y="543" class="axis">20:58:07.241</text>
+<rect x="24" y="560" width="1772" height="124" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="582" class="name">Axememore</text>
+<text x="193" y="582" class="meta">damp windows=1 | damp n=1 avg=1378.0 max=1378 | no-debuff n=0 max=0 deaths=0</text>
+<rect x="36" y="594" width="1748" height="74" fill="#f9fafb" stroke="#e5e7eb"/>
+<line x1="36" y1="668" x2="1784" y2="668" stroke="#9ca3af"/>
+<text x="40" y="606" class="axis">7507</text>
+<text x="40" y="666" class="axis">0</text>
+<rect x="115.5" y="594" width="1589.1" height="74" fill="#bfdbfe" opacity="0.55"/>
+<line x1="115.5" y1="594" x2="115.5" y2="668" stroke="#1d4ed8" stroke-dasharray="3 2"/>
+<line x1="1704.5" y1="594" x2="1704.5" y2="668" stroke="#334155" stroke-dasharray="3 2"/>
+<text x="117.5" y="605" class="mark">D+</text>
+<text x="1706.5" y="605" class="markOff">D-</text>
+<rect x="1285.7" y="656" width="8" height="12" fill="#2563eb" rx="1"/>
+<text x="1283.7" y="654" class="axis">1378</text>
+<text x="36" y="681" class="axis">20:58:03.037</text>
+<text x="1712" y="681" class="axis">20:58:33.467</text>
+<rect x="24" y="698" width="1772" height="124" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="720" class="name">Gladriel</text>
+<text x="193" y="720" class="meta">damp windows=2 | damp n=2 avg=697.5 max=1395 | no-debuff n=0 max=0 deaths=0</text>
+<rect x="36" y="732" width="1748" height="74" fill="#f9fafb" stroke="#e5e7eb"/>
+<line x1="36" y1="806" x2="1784" y2="806" stroke="#9ca3af"/>
+<text x="40" y="744" class="axis">7507</text>
+<text x="40" y="804" class="axis">0</text>
+<rect x="115.5" y="732" width="1514.9" height="74" fill="#bfdbfe" opacity="0.55"/>
+<line x1="115.5" y1="732" x2="115.5" y2="806" stroke="#1d4ed8" stroke-dasharray="3 2"/>
+<line x1="1630.4" y1="732" x2="1630.4" y2="806" stroke="#334155" stroke-dasharray="3 2"/>
+<text x="117.5" y="743" class="mark">D+</text>
+<text x="1632.4" y="743" class="markOff">D-</text>
+<rect x="1048.1" y="732" width="656.5" height="74" fill="#bfdbfe" opacity="0.55"/>
+<line x1="1048.1" y1="732" x2="1048.1" y2="806" stroke="#1d4ed8" stroke-dasharray="3 2"/>
+<line x1="1704.5" y1="732" x2="1704.5" y2="806" stroke="#334155" stroke-dasharray="3 2"/>
+<text x="1050.1" y="743" class="mark">D+</text>
+<text x="1706.5" y="743" class="markOff">D-</text>
+<rect x="1317.2" y="805" width="8" height="1" fill="#2563eb" rx="1"/>
+<text x="1315.2" y="803" class="axis">0</text>
+<rect x="1419.3" y="794" width="8" height="12" fill="#2563eb" rx="1"/>
+<text x="1417.3" y="792" class="axis">1395</text>
+<text x="36" y="819" class="axis">20:56:23.225</text>
+<text x="1712" y="819" class="axis">20:58:38.220</text>
+<rect x="24" y="836" width="1772" height="124" rx="10" fill="#ffffff" stroke="#d1d5db"/>
+<text x="36" y="858" class="name">Ichabaddie</text>
+<text x="193" y="858" class="meta">damp windows=1 | damp n=3 avg=583.3 max=1750 | no-debuff n=0 max=0 deaths=0</text>
+<rect x="36" y="870" width="1748" height="74" fill="#f9fafb" stroke="#e5e7eb"/>
+<line x1="36" y1="944" x2="1784" y2="944" stroke="#9ca3af"/>
+<text x="40" y="882" class="axis">7507</text>
+<text x="40" y="942" class="axis">0</text>
+<rect x="115.5" y="870" width="1587.9" height="74" fill="#bfdbfe" opacity="0.55"/>
+<line x1="115.5" y1="870" x2="115.5" y2="944" stroke="#1d4ed8" stroke-dasharray="3 2"/>
+<line x1="1703.3" y1="870" x2="1703.3" y2="944" stroke="#334155" stroke-dasharray="3 2"/>
+<text x="117.5" y="881" class="mark">D+</text>
+<text x="1705.3" y="881" class="markOff">D-</text>
+<rect x="876.3" y="943" width="8" height="1" fill="#2563eb" rx="1"/>
+<text x="874.3" y="941" class="axis">0</text>
+<rect x="1425.7" y="943" width="8" height="1" fill="#2563eb" rx="1"/>
+<text x="1423.7" y="941" class="axis">0</text>
+<rect x="1700.5" y="929" width="8" height="15" fill="#2563eb" rx="1"/>
+<text x="1698.5" y="927" class="axis">1750</text>
+<text x="36" y="957" class="axis">20:57:48.080</text>
+<text x="1712" y="957" class="axis">20:58:34.213</text>
+</svg>

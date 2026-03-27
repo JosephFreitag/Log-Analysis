@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1150" viewBox="0 0 1900 1150">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#1f2937"/></linearGradient></defs>
+<style>
+.title{font:700 28px Arial,sans-serif;fill:#f9fafb;}
+.sub{font:400 13px Arial,sans-serif;fill:#d1d5db;}
+.legend{font:12px Arial,sans-serif;fill:#111827;}
+.name{font:12px Arial,sans-serif;fill:#111827;}
+.axis{font:11px Arial,sans-serif;fill:#6b7280;}
+.count{font:11px "Courier New", monospace;fill:#374151;}
+</style>
+<rect x="0" y="0" width="1900" height="1150" fill="#f3f4f6"/>
+<rect x="0" y="0" width="1900" height="104" fill="url(#g)"/>
+<text x="24" y="42" class="title">Resistance Potion Timeline - Pull 1 (Wipe)</text>
+<text x="24" y="64" class="sub">Window: 20:39:40.838 to 20:42:30.461 (includes -60s pre-pull)</text>
+<text x="24" y="84" class="sub">Players: 40 | GAPP uses: 22 | MRP uses: 34</text>
+<text x="24" y="100" class="sub">Captured in extended segment (-60s to -35s): GAPP 0 | MRP 4</text>
+<polygon points="24,128 34,116 44,128" fill="#2563eb"/>
+<text x="50" y="127" class="legend">Greater Arcane Protection Potion</text>
+<rect x="324" y="116" width="12" height="12" fill="#7c3aed"/>
+<text x="342" y="127" class="legend">Magic Resistance Potion</text>
+<line x1="264.0" y1="146" x2="264.0" y2="1096" stroke="#e5e7eb"/>
+<text x="248.0" y="142" class="axis">-60s</text>
+<line x1="350.8" y1="146" x2="350.8" y2="1096" stroke="#e5e7eb"/>
+<text x="334.8" y="142" class="axis">-50s</text>
+<line x1="437.6" y1="146" x2="437.6" y2="1096" stroke="#e5e7eb"/>
+<text x="421.6" y="142" class="axis">-40s</text>
+<line x1="524.3" y1="146" x2="524.3" y2="1096" stroke="#e5e7eb"/>
+<text x="508.3" y="142" class="axis">-30s</text>
+<line x1="611.1" y1="146" x2="611.1" y2="1096" stroke="#e5e7eb"/>
+<text x="595.1" y="142" class="axis">-20s</text>
+<line x1="697.9" y1="146" x2="697.9" y2="1096" stroke="#e5e7eb"/>
+<text x="681.9" y="142" class="axis">-10s</text>
+<line x1="784.7" y1="146" x2="784.7" y2="1096" stroke="#e5e7eb"/>
+<text x="768.7" y="142" class="axis">0s</text>
+<line x1="871.5" y1="146" x2="871.5" y2="1096" stroke="#e5e7eb"/>
+<text x="855.5" y="142" class="axis">10s</text>
+<line x1="958.2" y1="146" x2="958.2" y2="1096" stroke="#e5e7eb"/>
+<text x="942.2" y="142" class="axis">20s</text>
+<line x1="1045.0" y1="146" x2="1045.0" y2="1096" stroke="#e5e7eb"/>
+<text x="1029.0" y="142" class="axis">30s</text>
+<line x1="1131.8" y1="146" x2="1131.8" y2="1096" stroke="#e5e7eb"/>
+<text x="1115.8" y="142" class="axis">40s</text>
+<line x1="1218.6" y1="146" x2="1218.6" y2="1096" stroke="#e5e7eb"/>
+<text x="1202.6" y="142" class="axis">50s</text>
+<line x1="1305.4" y1="146" x2="1305.4" y2="1096" stroke="#e5e7eb"/>
+<text x="1289.4" y="142" class="axis">60s</text>
+<line x1="1392.1" y1="146" x2="1392.1" y2="1096" stroke="#e5e7eb"/>
+<text x="1376.1" y="142" class="axis">70s</text>
+<line x1="1478.9" y1="146" x2="1478.9" y2="1096" stroke="#e5e7eb"/>
+<text x="1462.9" y="142" class="axis">80s</text>
+<line x1="1565.7" y1="146" x2="1565.7" y2="1096" stroke="#e5e7eb"/>
+<text x="1549.7" y="142" class="axis">90s</text>
+<line x1="1652.5" y1="146" x2="1652.5" y2="1096" stroke="#e5e7eb"/>
+<text x="1636.5" y="142" class="axis">100s</text>
+<line x1="481.0" y1="146" x2="481.0" y2="1096" stroke="#ef4444" stroke-dasharray="3 3"/>
+<text x="485.0" y="142" class="axis">-35s ref</text>
+<line x1="1736.0" y1="146" x2="1736.0" y2="1096" stroke="#e5e7eb"/>
+<text x="1722.0" y="142" class="axis">110s</text>
+<line x1="784.7" y1="146" x2="784.7" y2="1096" stroke="#374151" stroke-dasharray="4 3"/>
+<text x="788.7" y="142" class="axis">pull start</text>
+<rect x="24" y="136" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="150" class="name">Adalette</text>
+<line x1="264" y1="153" x2="1736" y2="153" stroke="#d1d5db"/>
+<polygon points="1623.9,159 1628.9,149 1633.9,159" fill="#2563eb"/>
+<rect x="482.3" y="148" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="150" class="count">G:1 M:1</text>
+<text x="24" y="174" class="name">Aerodian</text>
+<line x1="264" y1="177" x2="1736" y2="177" stroke="#d1d5db"/>
+<polygon points="1664.7,183 1669.7,173 1674.7,183" fill="#2563eb"/>
+<text x="1746" y="174" class="count">G:1 M:0</text>
+<rect x="24" y="184" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="198" class="name">Ambitious</text>
+<line x1="264" y1="201" x2="1736" y2="201" stroke="#d1d5db"/>
+<rect x="500.8" y="196" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="198" class="count">G:0 M:1</text>
+<text x="24" y="222" class="name">Amends</text>
+<line x1="264" y1="225" x2="1736" y2="225" stroke="#d1d5db"/>
+<rect x="488.3" y="220" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="222" class="count">G:0 M:1</text>
+<rect x="24" y="232" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="246" class="name">Axememore</text>
+<line x1="264" y1="249" x2="1736" y2="249" stroke="#d1d5db"/>
+<rect x="478.2" y="244" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="246" class="count">G:0 M:1</text>
+<text x="24" y="270" class="name">Caub</text>
+<line x1="264" y1="273" x2="1736" y2="273" stroke="#d1d5db"/>
+<text x="1746" y="270" class="count">G:0 M:0</text>
+<rect x="24" y="280" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="294" class="name">Cinos</text>
+<line x1="264" y1="297" x2="1736" y2="297" stroke="#d1d5db"/>
+<rect x="477.2" y="292" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="294" class="count">G:0 M:1</text>
+<text x="24" y="318" class="name">Coincidence</text>
+<line x1="264" y1="321" x2="1736" y2="321" stroke="#d1d5db"/>
+<polygon points="1712.0,327 1717.0,317 1722.0,327" fill="#2563eb"/>
+<text x="1746" y="318" class="count">G:1 M:0</text>
+<rect x="24" y="328" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="342" class="name">Dokuku</text>
+<line x1="264" y1="345" x2="1736" y2="345" stroke="#d1d5db"/>
+<rect x="482.3" y="340" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="342" class="count">G:0 M:1</text>
+<text x="24" y="366" class="name">Druidcyy</text>
+<line x1="264" y1="369" x2="1736" y2="369" stroke="#d1d5db"/>
+<polygon points="1628.4,375 1633.4,365 1638.4,375" fill="#2563eb"/>
+<rect x="481.3" y="364" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="366" class="count">G:1 M:1</text>
+<rect x="24" y="376" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="390" class="name">Ekureru</text>
+<line x1="264" y1="393" x2="1736" y2="393" stroke="#d1d5db"/>
+<rect x="482.0" y="388" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="390" class="count">G:0 M:1</text>
+<text x="24" y="414" class="name">Girthbone</text>
+<line x1="264" y1="417" x2="1736" y2="417" stroke="#d1d5db"/>
+<polygon points="1619.5,423 1624.5,413 1629.5,423" fill="#2563eb"/>
+<rect x="476.9" y="412" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="414" class="count">G:1 M:1</text>
+<rect x="24" y="424" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="438" class="name">Gladriel</text>
+<line x1="264" y1="441" x2="1736" y2="441" stroke="#d1d5db"/>
+<polygon points="1698.8,447 1703.8,437 1708.8,447" fill="#2563eb"/>
+<rect x="482.3" y="436" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="438" class="count">G:1 M:1</text>
+<text x="24" y="462" class="name">Gustovich</text>
+<line x1="264" y1="465" x2="1736" y2="465" stroke="#d1d5db"/>
+<rect x="488.3" y="460" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="462" class="count">G:0 M:1</text>
+<rect x="24" y="472" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="486" class="name">Ichabaddie</text>
+<line x1="264" y1="489" x2="1736" y2="489" stroke="#d1d5db"/>
+<rect x="606.7" y="484" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="486" class="count">G:0 M:1</text>
+<text x="24" y="510" class="name">Iriale</text>
+<line x1="264" y1="513" x2="1736" y2="513" stroke="#d1d5db"/>
+<polygon points="1528.6,519 1533.6,509 1538.6,519" fill="#2563eb"/>
+<rect x="476.5" y="508" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="510" class="count">G:1 M:1</text>
+<rect x="24" y="520" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="534" class="name">Jorailin</text>
+<line x1="264" y1="537" x2="1736" y2="537" stroke="#d1d5db"/>
+<rect x="490.3" y="532" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="534" class="count">G:0 M:1</text>
+<text x="24" y="558" class="name">Junoxz</text>
+<line x1="264" y1="561" x2="1736" y2="561" stroke="#d1d5db"/>
+<polygon points="1585.0,567 1590.0,557 1595.0,567" fill="#2563eb"/>
+<rect x="478.1" y="556" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="558" class="count">G:1 M:1</text>
+<rect x="24" y="568" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="582" class="name">Koukenbol</text>
+<line x1="264" y1="585" x2="1736" y2="585" stroke="#d1d5db"/>
+<polygon points="1628.1,591 1633.1,581 1638.1,591" fill="#2563eb"/>
+<rect x="485.8" y="580" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="582" class="count">G:1 M:1</text>
+<text x="24" y="606" class="name">Lafi</text>
+<line x1="264" y1="609" x2="1736" y2="609" stroke="#d1d5db"/>
+<polygon points="1525.5,615 1530.5,605 1535.5,615" fill="#2563eb"/>
+<rect x="482.0" y="604" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="606" class="count">G:1 M:1</text>
+<rect x="24" y="616" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="630" class="name">Lezner</text>
+<line x1="264" y1="633" x2="1736" y2="633" stroke="#d1d5db"/>
+<polygon points="1542.2,639 1547.2,629 1552.2,639" fill="#2563eb"/>
+<rect x="482.0" y="628" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="630" class="count">G:1 M:1</text>
+<text x="24" y="654" class="name">Lochien</text>
+<line x1="264" y1="657" x2="1736" y2="657" stroke="#d1d5db"/>
+<rect x="477.7" y="652" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="654" class="count">G:0 M:1</text>
+<rect x="24" y="664" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="678" class="name">Lopp</text>
+<line x1="264" y1="681" x2="1736" y2="681" stroke="#d1d5db"/>
+<rect x="475.9" y="676" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="678" class="count">G:0 M:1</text>
+<text x="24" y="702" class="name">Makende</text>
+<line x1="264" y1="705" x2="1736" y2="705" stroke="#d1d5db"/>
+<polygon points="1655.5,711 1660.5,701 1665.5,711" fill="#2563eb"/>
+<rect x="480.4" y="700" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="702" class="count">G:1 M:1</text>
+<rect x="24" y="712" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="726" class="name">Mazgro</text>
+<line x1="264" y1="729" x2="1736" y2="729" stroke="#d1d5db"/>
+<polygon points="1533.0,735 1538.0,725 1543.0,735" fill="#2563eb"/>
+<rect x="477.7" y="724" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="726" class="count">G:1 M:1</text>
+<text x="24" y="750" class="name">Meatmuncher</text>
+<line x1="264" y1="753" x2="1736" y2="753" stroke="#d1d5db"/>
+<polygon points="1616.6,759 1621.6,749 1626.6,759" fill="#2563eb"/>
+<rect x="477.7" y="748" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="750" class="count">G:1 M:1</text>
+<rect x="24" y="760" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="774" class="name">Midnas</text>
+<line x1="264" y1="777" x2="1736" y2="777" stroke="#d1d5db"/>
+<polygon points="1619.5,783 1624.5,773 1629.5,783" fill="#2563eb"/>
+<rect x="480.4" y="772" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="774" class="count">G:1 M:1</text>
+<text x="24" y="798" class="name">Mynie</text>
+<line x1="264" y1="801" x2="1736" y2="801" stroke="#d1d5db"/>
+<polygon points="1627.1,807 1632.1,797 1637.1,807" fill="#2563eb"/>
+<rect x="473.6" y="796" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="798" class="count">G:1 M:1</text>
+<rect x="24" y="808" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="822" class="name">Naturetouch</text>
+<line x1="264" y1="825" x2="1736" y2="825" stroke="#d1d5db"/>
+<polygon points="1680.5,831 1685.5,821 1690.5,831" fill="#2563eb"/>
+<rect x="481.3" y="820" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="822" class="count">G:1 M:1</text>
+<text x="24" y="846" class="name">Nawern</text>
+<line x1="264" y1="849" x2="1736" y2="849" stroke="#d1d5db"/>
+<polygon points="1629.1,855 1634.1,845 1639.1,855" fill="#2563eb"/>
+<rect x="478.1" y="844" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="846" class="count">G:1 M:1</text>
+<rect x="24" y="856" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="870" class="name">Obanion</text>
+<line x1="264" y1="873" x2="1736" y2="873" stroke="#d1d5db"/>
+<text x="1746" y="870" class="count">G:0 M:0</text>
+<text x="24" y="894" class="name">Rokomito</text>
+<line x1="264" y1="897" x2="1736" y2="897" stroke="#d1d5db"/>
+<polygon points="1601.0,903 1606.0,893 1611.0,903" fill="#2563eb"/>
+<rect x="480.4" y="892" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="894" class="count">G:1 M:1</text>
+<rect x="24" y="904" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="918" class="name">Sarys</text>
+<line x1="264" y1="921" x2="1736" y2="921" stroke="#d1d5db"/>
+<rect x="489.0" y="916" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="918" class="count">G:0 M:1</text>
+<text x="24" y="942" class="name">Shangcheeze</text>
+<line x1="264" y1="945" x2="1736" y2="945" stroke="#d1d5db"/>
+<text x="1746" y="942" class="count">G:0 M:0</text>
+<rect x="24" y="952" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="966" class="name">Snackermz</text>
+<line x1="264" y1="969" x2="1736" y2="969" stroke="#d1d5db"/>
+<rect x="495.3" y="964" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="966" class="count">G:0 M:1</text>
+<text x="24" y="990" class="name">Stormstiker</text>
+<line x1="264" y1="993" x2="1736" y2="993" stroke="#d1d5db"/>
+<polygon points="1537.3,999 1542.3,989 1547.3,999" fill="#2563eb"/>
+<rect x="477.7" y="988" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="990" class="count">G:1 M:1</text>
+<rect x="24" y="1000" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="1014" class="name">Topsoon</text>
+<line x1="264" y1="1017" x2="1736" y2="1017" stroke="#d1d5db"/>
+<text x="1746" y="1014" class="count">G:0 M:0</text>
+<text x="24" y="1038" class="name">Totemhero</text>
+<line x1="264" y1="1041" x2="1736" y2="1041" stroke="#d1d5db"/>
+<rect x="484.8" y="1036" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="1038" class="count">G:0 M:1</text>
+<rect x="24" y="1048" width="1852" height="24" fill="#ffffff" opacity="0.65"/>
+<text x="24" y="1062" class="name">Voster</text>
+<line x1="264" y1="1065" x2="1736" y2="1065" stroke="#d1d5db"/>
+<polygon points="1625.9,1071 1630.9,1061 1635.9,1071" fill="#2563eb"/>
+<rect x="480.7" y="1060" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="1062" class="count">G:1 M:1</text>
+<text x="24" y="1086" class="name">Zancoo</text>
+<line x1="264" y1="1089" x2="1736" y2="1089" stroke="#d1d5db"/>
+<polygon points="1681.1,1095 1686.1,1085 1691.1,1095" fill="#2563eb"/>
+<rect x="482.3" y="1084" width="8" height="8" fill="#7c3aed"/>
+<text x="1746" y="1086" class="count">G:1 M:1</text>
+<text x="264" y="1142" class="axis">-60s pre-pull</text>
+<text x="1616" y="1142" class="axis">pull end</text>
+</svg>
