@@ -1,0 +1,367 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="1146" viewBox="0 0 1220 1146">
+<style>
+.bg{fill:#f8fafc;}
+.title{font:700 24px Arial,sans-serif;fill:#111827;}
+.sub{font:12px Arial,sans-serif;fill:#4b5563;}
+.hdr{font:700 12px Arial,sans-serif;fill:#111827;}
+.mono{font:12px "Courier New", monospace;fill:#111827;}
+.cell{font:12px Arial,sans-serif;fill:#111827;}
+.grid{stroke:#e5e7eb;stroke-width:1;}
+</style>
+<rect class="bg" x="0" y="0" width="1220" height="1146"/>
+<text x="24" y="36" class="title">Arcane Aura Resistance Impact (Named)</text>
+<text x="24" y="56" class="sub">Sorted by resist% descending. resist% = resisted / (resisted + taken).</text>
+<text x="24" y="74" class="sub">absorbed_total shown separately (e.g., absorb effects / protection).</text>
+<rect x="24" y="112" width="1172" height="994" fill="#ffffff" stroke="#d1d5db"/>
+<rect x="24" y="112" width="1172" height="34" fill="#e2e8f0"/>
+<text x="32" y="134" class="hdr">Player</text>
+<text x="289" y="134" class="hdr">resist%</text>
+<text x="454" y="134" class="hdr">resisted_total</text>
+<text x="664" y="134" class="hdr">taken_total</text>
+<text x="864" y="134" class="hdr">absorbed_total</text>
+<line x1="275" y1="112" x2="275" y2="1106" class="grid"/>
+<line x1="440" y1="112" x2="440" y2="1106" class="grid"/>
+<line x1="650" y1="112" x2="650" y2="1106" class="grid"/>
+<line x1="850" y1="112" x2="850" y2="1106" class="grid"/>
+<rect x="24" y="146" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="146" x2="1196" y2="146" class="grid"/>
+<text x="32" y="162" class="cell">Iriale</text>
+<rect x="351" y="152" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="152" width="87.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="162" class="mono"> 72.8%</text>
+<text x="454" y="162" class="mono">74,882</text>
+<text x="664" y="162" class="mono">27,969</text>
+<text x="864" y="162" class="mono">10,555</text>
+<line x1="24" y1="170" x2="1196" y2="170" class="grid"/>
+<text x="32" y="186" class="cell">Aerodian</text>
+<rect x="351" y="176" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="176" width="85.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="186" class="mono"> 71.1%</text>
+<text x="454" y="186" class="mono">62,902</text>
+<text x="664" y="186" class="mono">25,515</text>
+<text x="864" y="186" class="mono">2,336</text>
+<rect x="24" y="194" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="194" x2="1196" y2="194" class="grid"/>
+<text x="32" y="210" class="cell">Caub</text>
+<rect x="351" y="200" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="200" width="85.0" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="210" class="mono"> 70.8%</text>
+<text x="454" y="210" class="mono">54,508</text>
+<text x="664" y="210" class="mono">22,471</text>
+<text x="864" y="210" class="mono">2,258</text>
+<line x1="24" y1="218" x2="1196" y2="218" class="grid"/>
+<text x="32" y="234" class="cell">Zancoo</text>
+<rect x="351" y="224" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="224" width="83.6" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="234" class="mono"> 69.7%</text>
+<text x="454" y="234" class="mono">68,055</text>
+<text x="664" y="234" class="mono">29,632</text>
+<text x="864" y="234" class="mono">13,031</text>
+<rect x="24" y="242" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="242" x2="1196" y2="242" class="grid"/>
+<text x="32" y="258" class="cell">Girthbone</text>
+<rect x="351" y="248" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="248" width="83.5" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="258" class="mono"> 69.6%</text>
+<text x="454" y="258" class="mono">72,907</text>
+<text x="664" y="258" class="mono">31,847</text>
+<text x="864" y="258" class="mono">4,049</text>
+<line x1="24" y1="266" x2="1196" y2="266" class="grid"/>
+<text x="32" y="282" class="cell">Ichabaddie</text>
+<rect x="351" y="272" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="272" width="82.3" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="282" class="mono"> 68.6%</text>
+<text x="454" y="282" class="mono">49,268</text>
+<text x="664" y="282" class="mono">22,551</text>
+<text x="864" y="282" class="mono">4,623</text>
+<rect x="24" y="290" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="290" x2="1196" y2="290" class="grid"/>
+<text x="32" y="306" class="cell">Naturetouch</text>
+<rect x="351" y="296" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="296" width="81.8" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="306" class="mono"> 68.2%</text>
+<text x="454" y="306" class="mono">76,069</text>
+<text x="664" y="306" class="mono">35,503</text>
+<text x="864" y="306" class="mono">1,894</text>
+<line x1="24" y1="314" x2="1196" y2="314" class="grid"/>
+<text x="32" y="330" class="cell">Axememore</text>
+<rect x="351" y="320" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="320" width="81.1" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="330" class="mono"> 67.6%</text>
+<text x="454" y="330" class="mono">73,915</text>
+<text x="664" y="330" class="mono">35,442</text>
+<text x="864" y="330" class="mono">1,255</text>
+<rect x="24" y="338" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="338" x2="1196" y2="338" class="grid"/>
+<text x="32" y="354" class="cell">Mazgro</text>
+<rect x="351" y="344" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="344" width="78.3" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="354" class="mono"> 65.3%</text>
+<text x="454" y="354" class="mono">75,097</text>
+<text x="664" y="354" class="mono">39,933</text>
+<text x="864" y="354" class="mono">1,921</text>
+<line x1="24" y1="362" x2="1196" y2="362" class="grid"/>
+<text x="32" y="378" class="cell">Snackermz</text>
+<rect x="351" y="368" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="368" width="78.0" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="378" class="mono"> 65.0%</text>
+<text x="454" y="378" class="mono">60,593</text>
+<text x="664" y="378" class="mono">32,591</text>
+<text x="864" y="378" class="mono">2,215</text>
+<rect x="24" y="386" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="386" x2="1196" y2="386" class="grid"/>
+<text x="32" y="402" class="cell">Topsoon</text>
+<rect x="351" y="392" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="392" width="77.7" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="402" class="mono"> 64.7%</text>
+<text x="454" y="402" class="mono">64,139</text>
+<text x="664" y="402" class="mono">34,977</text>
+<text x="864" y="402" class="mono">12,337</text>
+<line x1="24" y1="410" x2="1196" y2="410" class="grid"/>
+<text x="32" y="426" class="cell">Lafi</text>
+<rect x="351" y="416" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="416" width="76.5" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="426" class="mono"> 63.7%</text>
+<text x="454" y="426" class="mono">50,756</text>
+<text x="664" y="426" class="mono">28,880</text>
+<text x="864" y="426" class="mono">4,194</text>
+<rect x="24" y="434" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="434" x2="1196" y2="434" class="grid"/>
+<text x="32" y="450" class="cell">Ambitious</text>
+<rect x="351" y="440" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="440" width="76.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="450" class="mono"> 63.7%</text>
+<text x="454" y="450" class="mono">72,639</text>
+<text x="664" y="450" class="mono">41,458</text>
+<text x="864" y="450" class="mono">0</text>
+<line x1="24" y1="458" x2="1196" y2="458" class="grid"/>
+<text x="32" y="474" class="cell">Jorailin</text>
+<rect x="351" y="464" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="464" width="75.7" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="474" class="mono"> 63.1%</text>
+<text x="454" y="474" class="mono">38,518</text>
+<text x="664" y="474" class="mono">22,554</text>
+<text x="864" y="474" class="mono">6,881</text>
+<rect x="24" y="482" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="482" x2="1196" y2="482" class="grid"/>
+<text x="32" y="498" class="cell">Mynie</text>
+<rect x="351" y="488" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="488" width="75.7" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="498" class="mono"> 63.1%</text>
+<text x="454" y="498" class="mono">64,179</text>
+<text x="664" y="498" class="mono">37,606</text>
+<text x="864" y="498" class="mono">9,720</text>
+<line x1="24" y1="506" x2="1196" y2="506" class="grid"/>
+<text x="32" y="522" class="cell">Voster</text>
+<rect x="351" y="512" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="512" width="75.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="522" class="mono"> 62.8%</text>
+<text x="454" y="522" class="mono">69,515</text>
+<text x="664" y="522" class="mono">41,189</text>
+<text x="864" y="522" class="mono">5,295</text>
+<rect x="24" y="530" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="530" x2="1196" y2="530" class="grid"/>
+<text x="32" y="546" class="cell">Ekureru</text>
+<rect x="351" y="536" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="536" width="75.3" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="546" class="mono"> 62.8%</text>
+<text x="454" y="546" class="mono">59,503</text>
+<text x="664" y="546" class="mono">35,280</text>
+<text x="864" y="546" class="mono">0</text>
+<line x1="24" y1="554" x2="1196" y2="554" class="grid"/>
+<text x="32" y="570" class="cell">Meatmuncher</text>
+<rect x="351" y="560" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="560" width="75.2" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="570" class="mono"> 62.7%</text>
+<text x="454" y="570" class="mono">51,620</text>
+<text x="664" y="570" class="mono">30,752</text>
+<text x="864" y="570" class="mono">8,048</text>
+<rect x="24" y="578" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="578" x2="1196" y2="578" class="grid"/>
+<text x="32" y="594" class="cell">Rokomito</text>
+<rect x="351" y="584" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="584" width="74.2" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="594" class="mono"> 61.9%</text>
+<text x="454" y="594" class="mono">49,552</text>
+<text x="664" y="594" class="mono">30,549</text>
+<text x="864" y="594" class="mono">1,006</text>
+<line x1="24" y1="602" x2="1196" y2="602" class="grid"/>
+<text x="32" y="618" class="cell">Adalette</text>
+<rect x="351" y="608" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="608" width="73.8" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="618" class="mono"> 61.5%</text>
+<text x="454" y="618" class="mono">65,745</text>
+<text x="664" y="618" class="mono">41,159</text>
+<text x="864" y="618" class="mono">3,205</text>
+<rect x="24" y="626" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="626" x2="1196" y2="626" class="grid"/>
+<text x="32" y="642" class="cell">Koukenbol</text>
+<rect x="351" y="632" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="632" width="73.3" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="642" class="mono"> 61.1%</text>
+<text x="454" y="642" class="mono">69,727</text>
+<text x="664" y="642" class="mono">44,438</text>
+<text x="864" y="642" class="mono">2,564</text>
+<line x1="24" y1="650" x2="1196" y2="650" class="grid"/>
+<text x="32" y="666" class="cell">Stormstiker</text>
+<rect x="351" y="656" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="656" width="73.2" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="666" class="mono"> 61.0%</text>
+<text x="454" y="666" class="mono">69,517</text>
+<text x="664" y="666" class="mono">44,486</text>
+<text x="864" y="666" class="mono">2,650</text>
+<rect x="24" y="674" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="674" x2="1196" y2="674" class="grid"/>
+<text x="32" y="690" class="cell">Nawern</text>
+<rect x="351" y="680" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="680" width="73.2" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="690" class="mono"> 61.0%</text>
+<text x="454" y="690" class="mono">68,067</text>
+<text x="664" y="690" class="mono">43,571</text>
+<text x="864" y="690" class="mono">1,793</text>
+<line x1="24" y1="698" x2="1196" y2="698" class="grid"/>
+<text x="32" y="714" class="cell">Cinos</text>
+<rect x="351" y="704" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="704" width="72.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="714" class="mono"> 60.3%</text>
+<text x="454" y="714" class="mono">52,643</text>
+<text x="664" y="714" class="mono">34,597</text>
+<text x="864" y="714" class="mono">1,819</text>
+<rect x="24" y="722" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="722" x2="1196" y2="722" class="grid"/>
+<text x="32" y="738" class="cell">Lezner</text>
+<rect x="351" y="728" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="728" width="72.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="738" class="mono"> 60.3%</text>
+<text x="454" y="738" class="mono">65,792</text>
+<text x="664" y="738" class="mono">43,252</text>
+<text x="864" y="738" class="mono">12,212</text>
+<line x1="24" y1="746" x2="1196" y2="746" class="grid"/>
+<text x="32" y="762" class="cell">Dokuku</text>
+<rect x="351" y="752" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="752" width="72.3" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="762" class="mono"> 60.2%</text>
+<text x="454" y="762" class="mono">45,267</text>
+<text x="664" y="762" class="mono">29,915</text>
+<text x="864" y="762" class="mono">909</text>
+<rect x="24" y="770" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="770" x2="1196" y2="770" class="grid"/>
+<text x="32" y="786" class="cell">Midnas</text>
+<rect x="351" y="776" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="776" width="72.2" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="786" class="mono"> 60.2%</text>
+<text x="454" y="786" class="mono">61,570</text>
+<text x="664" y="786" class="mono">40,761</text>
+<text x="864" y="786" class="mono">2,655</text>
+<line x1="24" y1="794" x2="1196" y2="794" class="grid"/>
+<text x="32" y="810" class="cell">Gustovich</text>
+<rect x="351" y="800" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="800" width="71.6" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="810" class="mono"> 59.6%</text>
+<text x="454" y="810" class="mono">42,730</text>
+<text x="664" y="810" class="mono">28,911</text>
+<text x="864" y="810" class="mono">6,876</text>
+<rect x="24" y="818" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="818" x2="1196" y2="818" class="grid"/>
+<text x="32" y="834" class="cell">Junoxz</text>
+<rect x="351" y="824" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="824" width="71.1" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="834" class="mono"> 59.2%</text>
+<text x="454" y="834" class="mono">69,828</text>
+<text x="664" y="834" class="mono">48,043</text>
+<text x="864" y="834" class="mono">2,182</text>
+<line x1="24" y1="842" x2="1196" y2="842" class="grid"/>
+<text x="32" y="858" class="cell">Gladriel</text>
+<rect x="351" y="848" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="848" width="71.0" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="858" class="mono"> 59.2%</text>
+<text x="454" y="858" class="mono">42,170</text>
+<text x="664" y="858" class="mono">29,076</text>
+<text x="864" y="858" class="mono">2,023</text>
+<rect x="24" y="866" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="866" x2="1196" y2="866" class="grid"/>
+<text x="32" y="882" class="cell">Druidcyy</text>
+<rect x="351" y="872" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="872" width="70.5" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="882" class="mono"> 58.7%</text>
+<text x="454" y="882" class="mono">61,818</text>
+<text x="664" y="882" class="mono">43,432</text>
+<text x="864" y="882" class="mono">2,040</text>
+<line x1="24" y1="890" x2="1196" y2="890" class="grid"/>
+<text x="32" y="906" class="cell">Sarys</text>
+<rect x="351" y="896" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="896" width="69.1" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="906" class="mono"> 57.6%</text>
+<text x="454" y="906" class="mono">63,341</text>
+<text x="664" y="906" class="mono">46,678</text>
+<text x="864" y="906" class="mono">133</text>
+<rect x="24" y="914" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="914" x2="1196" y2="914" class="grid"/>
+<text x="32" y="930" class="cell">Makende</text>
+<rect x="351" y="920" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="920" width="68.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="930" class="mono"> 57.0%</text>
+<text x="454" y="930" class="mono">59,454</text>
+<text x="664" y="930" class="mono">44,924</text>
+<text x="864" y="930" class="mono">3,222</text>
+<line x1="24" y1="938" x2="1196" y2="938" class="grid"/>
+<text x="32" y="954" class="cell">Amends</text>
+<rect x="351" y="944" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="944" width="68.3" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="954" class="mono"> 57.0%</text>
+<text x="454" y="954" class="mono">67,583</text>
+<text x="664" y="954" class="mono">51,081</text>
+<text x="864" y="954" class="mono">11,732</text>
+<rect x="24" y="962" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="962" x2="1196" y2="962" class="grid"/>
+<text x="32" y="978" class="cell">Totemhero</text>
+<rect x="351" y="968" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="968" width="67.6" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="978" class="mono"> 56.4%</text>
+<text x="454" y="978" class="mono">64,488</text>
+<text x="664" y="978" class="mono">49,904</text>
+<text x="864" y="978" class="mono">3,601</text>
+<line x1="24" y1="986" x2="1196" y2="986" class="grid"/>
+<text x="32" y="1002" class="cell">Obanion</text>
+<rect x="351" y="992" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="992" width="66.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="1002" class="mono"> 55.3%</text>
+<text x="454" y="1002" class="mono">61,228</text>
+<text x="664" y="1002" class="mono">49,427</text>
+<text x="864" y="1002" class="mono">172</text>
+<rect x="24" y="1010" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="1010" x2="1196" y2="1010" class="grid"/>
+<text x="32" y="1026" class="cell">Shangcheeze</text>
+<rect x="351" y="1016" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="1016" width="65.8" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="1026" class="mono"> 54.8%</text>
+<text x="454" y="1026" class="mono">54,285</text>
+<text x="664" y="1026" class="mono">44,724</text>
+<text x="864" y="1026" class="mono">2,309</text>
+<line x1="24" y1="1034" x2="1196" y2="1034" class="grid"/>
+<text x="32" y="1050" class="cell">Coincidence</text>
+<rect x="351" y="1040" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="1040" width="63.4" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="1050" class="mono"> 52.9%</text>
+<text x="454" y="1050" class="mono">55,361</text>
+<text x="664" y="1050" class="mono">49,375</text>
+<text x="864" y="1050" class="mono">2,819</text>
+<rect x="24" y="1058" width="1172" height="24" fill="#f8fafc"/>
+<line x1="24" y1="1058" x2="1196" y2="1058" class="grid"/>
+<text x="32" y="1074" class="cell">Lopp</text>
+<rect x="351" y="1064" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="1064" width="60.2" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="1074" class="mono"> 50.1%</text>
+<text x="454" y="1074" class="mono">52,228</text>
+<text x="664" y="1074" class="mono">51,935</text>
+<text x="864" y="1074" class="mono">8,043</text>
+<line x1="24" y1="1082" x2="1196" y2="1082" class="grid"/>
+<text x="32" y="1098" class="cell">Lochien</text>
+<rect x="351" y="1088" width="120" height="10" fill="#e5e7eb" rx="3"/>
+<rect x="351" y="1088" width="58.6" height="10" fill="#16a34a" rx="3"/>
+<text x="289" y="1098" class="mono"> 48.9%</text>
+<text x="454" y="1098" class="mono">46,231</text>
+<text x="664" y="1098" class="mono">48,402</text>
+<text x="864" y="1098" class="mono">5,743</text>
+<line x1="24" y1="1106" x2="1196" y2="1106" class="grid"/>
+</svg>
