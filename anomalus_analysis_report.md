@@ -16,6 +16,8 @@ This report consolidates all findings across Arcane Aura performance, Arcane Bom
   [`anomalus_tank_scorecard.md`](./anomalus_tank_scorecard.md)
 - Resistance potion timelines per pull (MRP + GAPP):
   [`anomalus_resistance_potion_timeline.md`](./anomalus_resistance_potion_timeline.md)
+- Anonymous Arcane Aura resistance-only scorecard (resist/taken/absorbed totals):
+  [`anomalus_pulse_scorecard.md`](./anomalus_pulse_scorecard.md)
 
 ---
 
@@ -148,6 +150,29 @@ Most high-damage bombs were **full-timer detonations with insufficient distance*
 
 - Arcane Pulse-related attribution now prioritizes **Arcane Aura-linked early Arcane Bomb triggers** over generic Arcane Aura death counts.
 - Arcane Pulse death/trigger attribution excludes events within **2.0 seconds of pull end** to avoid wipe-call/end noise.
+
+### Arcane Resistance Gear Impact (Anonymous)
+
+To isolate resistance-gear impact, the Arcane Pulse scorecard was reduced to resistance-only metrics and anonymized:
+
+- `resist%` (sorted high -> low): `resisted / (resisted + taken)`
+- `resisted_total` (raw amount resisted from Arcane Aura)
+- `taken_total` (raw amount taken from Arcane Aura)
+- `absorbed_total` (absorb value, useful proxy for effects like protection potions)
+
+Aggregate totals across all tracked players:
+
+- `resisted_total`: **2,427,690**
+- `taken_total`: **1,514,790**
+- `absorbed_total`: **170,320**
+- Overall `resist%` from resist-vs-taken pool: **61.6%**
+
+Anonymous resistance-only graphic:
+
+![Arcane Resistance Scorecard (Anonymous)](./anomalus_pulse_scorecard.svg)
+
+Reference table:
+[`anomalus_pulse_scorecard.md`](./anomalus_pulse_scorecard.md)
 
 ---
 
