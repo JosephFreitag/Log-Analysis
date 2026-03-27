@@ -208,3 +208,78 @@ Columns:
 | Mazgro | 3 | 15.04 | 0 | 0 | 1 | 0 | 19172 | 0 | 33% | 33% |
 | Zancoo | 1 | 15.02 | 0 | 0 | 1 | 0 | 4484 | 0 | 100% | 0% |
 
+---
+
+## 8) Final Holistic Attempt Summary (Anonymous)
+
+No player names are used in this section by request.
+
+### Pull 1 (Wipe, 108.37s)
+
+**What likely went wrong**
+- The pull had multiple early-detonation cascades, including one chain that started from a non-bomb external spike and another from a very short bomb uptime event.
+- Raid bomb damage volatility was high (from zero-damage clean bombs up to very heavy cluster damage), indicating inconsistent spacing/exits between carriers.
+- Resistance potion profile was weak in this pull window compared to later attempts (MRP coverage effectively absent in-window), reducing margin for Arcane Aura + bomb overlap.
+
+**Actionable improvements by role**
+- **Tanks**
+  - Keep boss positioning stable and predictable to preserve a clean, repeatable bomb exit lane.
+  - Call taunt/debuff transitions earlier so movement overlap does not coincide with back-to-back bomb handoffs.
+- **DPS / Bomb Carriers**
+  - Standardize a strict two-phase bomb route: commit to exit lane immediately, then continue to full-distance endpoint before detonation.
+  - If struck by heavy non-bomb damage while carrying, use personal survival within 1 GCD and maintain outward pathing (do not cut back through raid).
+  - Add spacing discipline between sequential carriers to prevent overlap detonations mid-run.
+- **Healers**
+  - Pre-assign emergency spot-heal coverage specifically to active bomb carriers.
+  - Reserve fast external saves for carriers taking rune/pulse overlap damage inside the 3-6s pre-detonation window.
+  - Rotate raid-cooldown coverage around known Arcane Aura stress windows to reduce incidental carrier deaths.
+
+### Pull 2 (Wipe, 111.54s)
+
+**What likely went wrong**
+- The largest wipe sequence came from full-timer bombs that still produced severe raid damage, followed by rapid cascade detonations.
+- This points to a dual-failure pattern: either insufficient distance on full-timer detonation, or the next carrier entering the lane too soon and getting clipped mid-run.
+- Consumable coverage improved relative to Pull 1, but execution error in bomb spacing/timing remained the dominant wipe driver.
+
+**Actionable improvements by role**
+- **Tanks**
+  - Keep melee/ranged anchor points consistent so carrier exit vectors do not cross core stack locations.
+  - Avoid unnecessary lateral boss drift during high bomb frequency windows.
+- **DPS / Bomb Carriers**
+  - Treat full-timer bombs as "must-max-distance" events; reaching partial distance is not sufficient.
+  - Enforce lane priority rules for consecutive carriers (first out keeps outer lane; second out delays/angles to avoid convergence).
+  - Track bomb-to-bomb cadence audibly/called so second carrier does not accelerate into first carrier's blast radius.
+- **Healers**
+  - Shift from broad raid throughput to targeted carrier triage during chained bomb windows.
+  - Assign one healer cohort to lane-adjacent stabilization while another maintains stack survivability.
+  - Hold instant-cast tools for likely cascade follow-up targets rather than spending all throughput on early pulse spikes.
+
+### Pull 3 (Kill, 122.72s)
+
+**What improved**
+- Arcane Aura intake was the best of the three pulls, indicating stronger mitigation/consumable discipline overall.
+- Bomb execution was significantly cleaner overall, with enough low-impact detonations to keep the raid stable through kill length.
+- Even with a notable late full-timer -> follow-up cascade moment, recovery was successful due to better survivability and healing control.
+
+**What still needs tightening (for consistency)**
+- Full-timer bombs still occasionally produced avoidable raid damage spikes.
+- A few late-pull consumable timings were delayed/uneven, leaving preventable risk during final stress.
+
+**Actionable improvements by role**
+- **Tanks**
+  - Preserve current taunt/debuff rhythm; this was stable enough for a kill.
+  - Continue maximizing uptime while avoiding positional shifts that compress bomb lane space late fight.
+- **DPS / Bomb Carriers**
+  - Keep the successful kill-pull lane pattern, but tighten final 30s spacing and endpoint distance discipline.
+  - Use personals proactively before expected overlap windows rather than reactively after taking burst.
+- **Healers**
+  - Maintain current pulse coverage pattern; it supported kill-level survivability.
+  - Add a pre-planned "late pull cascade package" (fast externals + emergency raid CD) for end-of-fight bomb density.
+
+### Cross-Attempt Priority Checklist (Role-Based)
+
+1. **Bomb lane governance (all roles)**: one standardized outbound lane, explicit first/second carrier rules.
+2. **Carrier survivability protocol (DPS + Healers)**: mandatory personal or external when carrier takes heavy pre-detonation damage.
+3. **Positioning stability (Tanks)**: minimize boss movement during high bomb cadence to protect pathing.
+4. **Consumable timing discipline (all roles)**: preserve pre-pot plan and end-of-fight protection timing to flatten Arcane Aura + bomb overlap risk.
+5. **Cascade recovery plan (Healers + Raid Lead)**: reserve tools for second/third detonation windows, not only first impact.
